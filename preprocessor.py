@@ -2,7 +2,9 @@ import nltk
 from nltk import word_tokenize
 from nltk.corpus import stopwords
 from unidecode import unidecode
+import csv
 import string
+
 def pre_process(corpus):
     # convert input corpus to lower case.
     corpus = corpus.lower()
@@ -15,4 +17,23 @@ def pre_process(corpus):
     # remove non-ascii characters
     corpus = unidecode(corpus)
     return corpus
-print(pre_process("Sample of non ASCII: Ceñía. How to remove stopwords and punctuations?"))
+
+inputFile = open('data/WikiQA.csv')
+csvreader = csv.reader(inputFile)
+header = []
+header = next(csvreader)
+outputFile = open('data/WikiQA-processed.csv', 'w')
+# create the csv writer
+writer = csv.writer(outputFile)
+counter = 0
+for inputRow in csvreader:
+    outputRow = inputRow
+    outputRow[5] = pre_process(inputRow[5])
+    print(outputRow)
+    writer.writerow(outputRow)
+    counter = counter+1
+    if counter == 5:
+        break
+
+# close the file
+outputFile.close()
