@@ -18,13 +18,14 @@ def pre_process(corpus):
     corpus = unidecode(corpus)
     return corpus
 
-inputFile = open('data/WikiQA.csv')
+inputFile = open('data/WikiQA.csv', encoding="utf8")
 csvreader = csv.reader(inputFile)
 header = []
 header = next(csvreader)
-outputFile = open('data/WikiQA-processed.csv', 'w')
+outputFile = open('data/WikiQA-processed.csv', 'w', encoding="utf8", newline='')
 # create the csv writer
 writer = csv.writer(outputFile)
+writer.writerow(header)
 counter = 0
 for inputRow in csvreader:
     outputRow = inputRow
@@ -32,7 +33,7 @@ for inputRow in csvreader:
     print(outputRow)
     writer.writerow(outputRow)
     counter = counter+1
-    if counter == 5:
+    if counter == 1000:
         break
 
 # close the file
