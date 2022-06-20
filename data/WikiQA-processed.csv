@@ -1,5 +1,1001 @@
-Q0,HOW AFRICAN AMERICANS WERE IMMIGRATED TO THE US,D0,African immigration to the United States,D0-0,african immigration united states refers immigrants united states nationals africa,0
-Q0,HOW AFRICAN AMERICANS WERE IMMIGRATED TO THE US,D0,African immigration to the United States,D0-1,term african scope article refers geographical national origins rather racial affiliation,0
-Q0,HOW AFRICAN AMERICANS WERE IMMIGRATED TO THE US,D0,African immigration to the United States,D0-2,immigration nationality act 1965 2007 estimated total 0.8 0.9 million africans immigrated united states accounting roughly 3.3 total immigration united states period,0
-Q0,HOW AFRICAN AMERICANS WERE IMMIGRATED TO THE US,D0,African immigration to the United States,D0-3,african immigrants united states come almost regions africa constitute homogeneous group,0
-Q0,HOW AFRICAN AMERICANS WERE IMMIGRATED TO THE US,D0,African immigration to the United States,D0-4,include people different national linguistic ethnic racial cultural social backgrounds,0
+QuestionID,Question,DocumentID,DocumentTitle,SentenceID,Sentence,Label
+Q0,HOW AFRICAN AMERICANS WERE IMMIGRATED TO THE US,D0,African immigration to the United States,D0-0,african immigration united state refers immigrant united state national africa,0
+Q0,HOW AFRICAN AMERICANS WERE IMMIGRATED TO THE US,D0,African immigration to the United States,D0-1,term african scope article refers geographical national origin rather racial affiliation,0
+Q0,HOW AFRICAN AMERICANS WERE IMMIGRATED TO THE US,D0,African immigration to the United States,D0-2,immigration nationality act 1965 2007 estimated total 0.8 0.9 million african immigrated united state accounting roughly 3.3 total immigration united state period,0
+Q0,HOW AFRICAN AMERICANS WERE IMMIGRATED TO THE US,D0,African immigration to the United States,D0-3,african immigrant united state come almost region africa constitute homogeneous group,0
+Q0,HOW AFRICAN AMERICANS WERE IMMIGRATED TO THE US,D0,African immigration to the United States,D0-4,include people different national linguistic ethnic racial cultural social background,0
+Q0,HOW AFRICAN AMERICANS WERE IMMIGRATED TO THE US,D0,African immigration to the United States,D0-5,african immigrant distinguished african american people latter descendant mostly west central african involuntarily brought united state mean historic atlantic slave trade,1
+Q1,how are glacier caves formed?,D1,Glacier cave,D1-0,partly submerged glacier cave perito moreno glacier,0
+Q1,how are glacier caves formed?,D1,Glacier cave,D1-1,ice facade approximately 60 high,0
+Q1,how are glacier caves formed?,D1,Glacier cave,D1-2,ice formation titlis glacier cave,0
+Q1,how are glacier caves formed?,D1,Glacier cave,D1-3,glacier cave cave formed within ice glacier,1
+Q1,how are glacier caves formed?,D1,Glacier cave,D1-4,glacier cave often called ice cave term properly used describe bedrock cave contain year-round ice,0
+Q2,How are the directions of the velocity and force vectors related in a circular motion,D2,Circular motion,D2-0,physic circular motion movement object along circumference circle rotation along circular path,0
+Q2,How are the directions of the velocity and force vectors related in a circular motion,D2,Circular motion,D2-1,uniform constant angular rate rotation constant speed non-uniform changing rate rotation,0
+Q2,How are the directions of the velocity and force vectors related in a circular motion,D2,Circular motion,D2-2,rotation around fixed axis three-dimensional body involves circular motion part,0
+Q2,How are the directions of the velocity and force vectors related in a circular motion,D2,Circular motion,D2-3,equation motion describe movement center mass body,0
+Q2,How are the directions of the velocity and force vectors related in a circular motion,D2,Circular motion,D2-4,example circular motion include artificial satellite orbiting earth constant height stone tied rope swung circle car turning curve race track electron moving perpendicular uniform magnetic field gear turning inside mechanism,0
+Q2,How are the directions of the velocity and force vectors related in a circular motion,D2,Circular motion,D2-5,since object 's velocity vector constantly changing direction moving object undergoing acceleration centripetal force direction center rotation,0
+Q2,How are the directions of the velocity and force vectors related in a circular motion,D2,Circular motion,D2-6,without acceleration object would move straight line according newton 's law motion,0
+Q3,how large were early jails,D3,Prison,D3-0,prison old french prisoun also known gaol jail place people physically confined usually deprived range personal freedom,0
+Q3,how large were early jails,D3,Prison,D3-1,imprisonment incarceration legal penalty may imposed state commission crime,0
+Q3,how large were early jails,D3,Prison,D3-2,term used penitentiary correctional facility remand centre detention centre gaol jail,0
+Q3,how large were early jails,D3,Prison,D3-3,legal system term distinct meaning,0
+Q3,how large were early jails,D3,Prison,D3-4,criminal suspect charged likely charged criminal offense may held remand prison denied unable meet condition bail unable unwilling post bail,0
+Q3,how large were early jails,D3,Prison,D3-5,criminal defendant may also held prison awaiting trial trial verdict,0
+Q3,how large were early jails,D3,Prison,D3-6,found guilty defendant convicted may receive custodial sentence requiring imprisonment,0
+Q3,how large were early jails,D3,Prison,D3-7,well convicted suspected criminal prison may used internment charged crime,0
+Q3,how large were early jails,D3,Prison,D3-8,prison may also used tool political repression detain political prisoner prisoner conscience `` enemy state `` particularly authoritarian regime,0
+Q3,how large were early jails,D3,Prison,D3-9,time war conflict prisoner war may also detained prison,0
+Q3,how large were early jails,D3,Prison,D3-10,prison system organizational arrangement provision operation prison,0
+Q4,how a water pump works,D4,Pump,D4-0,small electrically powered pump,0
+Q4,how a water pump works,D4,Pump,D4-1,large electrically driven pump electropump waterworks near hengsteysee germany,0
+Q4,how a water pump works,D4,Pump,D4-2,pump device move fluid liquid gas sometimes slurry mechanical action,0
+Q4,how a water pump works,D4,Pump,D4-3,pump classified three major group according method use move fluid direct lift displacement gravity pump,0
+Q4,how a water pump works,D4,Pump,D4-4,pump operate mechanism typically reciprocating rotary consume energy perform mechanical work moving fluid,1
+Q4,how a water pump works,D4,Pump,D4-5,pump operate via many energy source including manual operation electricity engine wind power,0
+Q5,how did apollo creed die,D5,Apollo Creed,D5-0,apollo creed fictional character rocky film initially portrayed undisputed heavyweight champion world,0
+Q5,how did apollo creed die,D5,Apollo Creed,D5-1,played carl weather,0
+Q5,how did apollo creed die,D5,Apollo Creed,D5-2,creed multiple nickname including master disaster king sting dancing destroyer prince punch one count monte fisto,0
+Q5,how did apollo creed die,D5,Apollo Creed,D5-3,urban legend state apollo creed 's name wordplay apostle creed statement belief used christian church,0
+Q5,how did apollo creed die,D5,Apollo Creed,D5-4,apollo 's championship fight scheduled 15 round distance,0
+Q5,how did apollo creed die,D5,Apollo Creed,D5-5,championship fight convert 15 round 12 round 1987,0
+Q5,how did apollo creed die,D5,Apollo Creed,D5-6,rocky balboa often wrongly credited popularizing red white blue trunk creed first man wear latterly worn rocky balboa 3rd 4th installment finally tommy `` machine `` gunn tommy morrison 5th installment although normally wore red white seen rocky ii,0
+Q5,how did apollo creed die,D5,Apollo Creed,D5-7,balboa 's signature color black gold -- color used latest movie,0
+Q6,how long is the term for federal judges,D6,United States federal judge,D6-0,united state title federal judge usually mean judge appointed president united state confirmed united state senate pursuant appointment clause article ii united state constitution,0
+Q6,how long is the term for federal judges,D6,United States federal judge,D6-1,addition supreme court united state whose existence aspect whose jurisdiction beyond constitutional power congress alter act congress established 13 court appeal also called `` circuit court `` appellate jurisdiction different region united state 94 united state district court,0
+Q6,how long is the term for federal judges,D6,United States federal judge,D6-2,every judge appointed court may categorized federal judge position include chief justice associate justice supreme court circuit judge court appeal district judge united state district court,0
+Q6,how long is the term for federal judges,D6,United States federal judge,D6-3,judge described thus far referred sometimes `` article iii judge `` exercise judicial power vested judicial branch federal government article iii you.s constitution,0
+Q6,how long is the term for federal judges,D6,United States federal judge,D6-4,addition judge court international trade exercise judicial power pursuant article iii,0
+Q6,how long is the term for federal judges,D6,United States federal judge,D6-5,judge serving federal court including magistrate judge bankruptcy judge also sometimes referred `` federal judge `` however neither appointed president confirmed senate power derives article instead,0
+Q6,how long is the term for federal judges,D6,United States federal judge,D6-6,see article article iii tribunal,0
+Q7,how a beretta model 21 pistols magazines works,D7,Beretta 21A Bobcat,D7-0,beretta 21a bobcat small pocket-sized semi-automatic pistol designed beretta italy,0
+Q7,how a beretta model 21 pistols magazines works,D7,Beretta 21A Bobcat,D7-1,production began late 1984 solely beretta you.s.a facility accokeek maryland,0
+Q7,how a beretta model 21 pistols magazines works,D7,Beretta 21A Bobcat,D7-2,development beretta model 20 whose production ended 1985,0
+Q8,How are epithelial tissues joined together?,D8,Tissue (biology),D8-0,cross section sclerenchyma fiber plant ground tissue,0
+Q8,How are epithelial tissues joined together?,D8,Tissue (biology),D8-1,microscopic view histologic specimen human lung tissue stained hematoxylin eosin,0
+Q8,How are epithelial tissues joined together?,D8,Tissue (biology),D8-2,biology tissue cellular organizational level intermediate cell complete organism,0
+Q8,How are epithelial tissues joined together?,D8,Tissue (biology),D8-3,tissue ensemble similar cell origin together carry specific function,0
+Q8,How are epithelial tissues joined together?,D8,Tissue (biology),D8-4,organ formed functional grouping together multiple tissue,0
+Q8,How are epithelial tissues joined together?,D8,Tissue (biology),D8-5,study tissue known histology connection disease histopathology,0
+Q8,How are epithelial tissues joined together?,D8,Tissue (biology),D8-6,classical tool studying tissue paraffin block tissue embedded sectioned histological stain optical microscope,0
+Q8,How are epithelial tissues joined together?,D8,Tissue (biology),D8-7,last couple decade development electron microscopy immunofluorescence use frozen tissue section enhanced detail observed tissue,0
+Q8,How are epithelial tissues joined together?,D8,Tissue (biology),D8-8,tool classical appearance tissue examined health disease enabling considerable refinement clinical diagnosis prognosis,0
+Q9,how a vul works,D9,Variable universal life insurance,D9-0,variable universal life insurance often shortened vul type life insurance build cash value,0
+Q9,how a vul works,D9,Variable universal life insurance,D9-1,vul cash value invested wide variety separate account similar mutual fund choice available separate account use entirely contract owner,0
+Q9,how a vul works,D9,Variable universal life insurance,D9-2,'variable component name refers ability invest separate account whose value vary -- they vary invested stock and/or bond market,0
+Q9,how a vul works,D9,Variable universal life insurance,D9-3,'universal component name refers flexibility owner making premium payment,0
+Q9,how a vul works,D9,Variable universal life insurance,D9-4,premium vary nothing given month maximum defined internal revenue code life insurance,0
+Q9,how a vul works,D9,Variable universal life insurance,D9-5,flexibility contrast whole life insurance fixed premium payment typically missed without lapsing policy although one may exercise automatic premium loan feature surrender dividend pay whole life premium,0
+Q9,how a vul works,D9,Variable universal life insurance,D9-6,variable universal life type permanent life insurance death benefit paid insured dy time long sufficient cash value pay cost insurance policy,0
+Q9,how a vul works,D9,Variable universal life insurance,D9-7,vuls unlike whole life endowment age age cash value equal death benefit amount whole life typically 100,0
+Q9,how a vul works,D9,Variable universal life insurance,D9-8,yet another key advantage vul whole life,0
+Q9,how a vul works,D9,Variable universal life insurance,D9-9,typical whole life policy death benefit limited face amount specified policy endowment age face amount paid,0
+Q9,how a vul works,D9,Variable universal life insurance,D9-10,thus either death endowment insurance company keep cash value built year,0
+Q9,how a vul works,D9,Variable universal life insurance,D9-11,however participating whole life policy offer rider specify dividend paid policy used purchase `` paid addition `` policy increase cash value death benefit time,0
+Q9,how a vul works,D9,Variable universal life insurance,D9-12,investment made separate account out-perform general account insurance company higher rate-of-return occur fixed rates-of-return typical whole life,0
+Q9,how a vul works,D9,Variable universal life insurance,D9-13,combination year endowment age continually increasing death benefit high rate-of-return earned separate account vul policy could result higher value owner beneficiary whole life policy amount money paid premium,0
+Q10,how an outdoor wood boiler works,D10,Outdoor wood-fired boiler,D10-0,outdoor wood boiler variant classic wood stove adapted set-up outdoors still transferring heat interior building,0
+Q11,"how big is bmc software in houston, tx",D11,BMC Software,D11-0,bmc software inc. american company specializing business service management bsm software,0
+Q11,"how big is bmc software in houston, tx",D11,BMC Software,D11-1,headquartered houston texas bmc develops market sell software used multiple function including service management data center automation performance management virtualization lifecycle management cloud computing management,0
+Q11,"how big is bmc software in houston, tx",D11,BMC Software,D11-2,name `` bmc `` taken surname three founder -- scott boulette john moore dan cloer,0
+Q11,"how big is bmc software in houston, tx",D11,BMC Software,D11-3,"employing 6,000 bmc often credited pioneering bsm concept way help better align operation business need",1
+Q11,"how big is bmc software in houston, tx",D11,BMC Software,D11-4,2011 company recorded annual revenue 2.1 billion making 20 largest software company term revenue year,1
+Q12,how big did girl scout cookie boxes used to be,D12,Girl Scout Cookies,D12-0,mound girl scout cooky,0
+Q12,how big did girl scout cookie boxes used to be,D12,Girl Scout Cookies,D12-1,mound contains 74 box cooky,0
+Q12,how big did girl scout cookie boxes used to be,D12,Girl Scout Cookies,D12-2,girl scout cooky cooky sold girl scout usa gsusa one major fundraiser local scout unit,0
+Q12,how big did girl scout cookie boxes used to be,D12,Girl Scout Cookies,D12-3,member gsusa selling cooky since 1917 raise fund,0
+Q12,how big did girl scout cookie boxes used to be,D12,Girl Scout Cookies,D12-4,girl participate earn prize effort,0
+Q12,how big did girl scout cookie boxes used to be,D12,Girl Scout Cookies,D12-5,also unit incentive unit whole well,0
+Q12,how big did girl scout cookie boxes used to be,D12,Girl Scout Cookies,D12-6,2007 sale estimated 200 million box per year,0
+Q13,how big is the purdue greek system,D13,Purdue University,D13-0,university hall,0
+Q13,how big is the purdue greek system,D13,Purdue University,D13-1,purdue university located west lafayette indiana flagship university six-campus purdue university system,0
+Q13,how big is the purdue greek system,D13,Purdue University,D13-2,purdue founded may 6 1869 land-grant university indiana general assembly taking advantage morrill act accepted donation land money lafayette businessman john purdue establish college science technology agriculture name,0
+Q13,how big is the purdue greek system,D13,Purdue University,D13-3,first class held september 16 1874 six instructor 39 student,0
+Q13,how big is the purdue greek system,D13,Purdue University,D13-4,today purdue member big ten conference well known world-class research institution,0
+Q13,how big is the purdue greek system,D13,Purdue University,D13-5,purdue enrolls second largest student body university indiana well fourth largest international student population university united state,0
+Q13,how big is the purdue greek system,D13,Purdue University,D13-6,purdue offer undergraduate graduate program 211 major area study well known competitive engineering curriculum,0
+Q13,how big is the purdue greek system,D13,Purdue University,D13-7,university also highly influential america 's history aviation established first college credit offered flight training first four-year bachelor 's degree aviation first university airport purdue university airport,0
+Q13,how big is the purdue greek system,D13,Purdue University,D13-8,purdue 's aviation technology program remains one competitive aviation-specific program world,0
+Q13,how big is the purdue greek system,D13,Purdue University,D13-9,mid-20th century purdue 's aviation program expanded encompass advanced spaceflight technology giving rise purdue 's nickname cradle astronaut,0
+Q13,how big is the purdue greek system,D13,Purdue University,D13-10,twenty-three purdue graduate gone become astronaut including gu grissom one original mercury seven astronaut neil armstrong first person walk moon eugene cernan recent person walk moon,0
+Q14,how big do sebaceous cysts get,D14,Sebaceous cyst,D14-0,sebaceous cyst term loosely refers either epidermoid cyst also known epidermal cyst l72.0 pilar cyst also known trichilemmal cyst l72.1,0
+Q14,how big do sebaceous cysts get,D14,Sebaceous cyst,D14-1,epidermoid cyst originates epidermis pilar cyst originates hair follicle definition neither type cyst strictly sebaceous cyst,0
+Q14,how big do sebaceous cysts get,D14,Sebaceous cyst,D14-2,name regarded misnomer fatty white semi-solid material cyst entity sebum keratin,0
+Q14,how big do sebaceous cysts get,D14,Sebaceous cyst,D14-3,furthermore microscope neither entity contains sebaceous gland,0
+Q14,how big do sebaceous cysts get,D14,Sebaceous cyst,D14-4,practice however term often used interchangeably,0
+Q14,how big do sebaceous cysts get,D14,Sebaceous cyst,D14-5,true sebaceous cyst relatively rare known steatocystoma multiple steatocystoma multiplex,0
+Q15,how are pointe shoes made,D15,Pointe shoe,D15-0,modern pointe shoe,0
+Q15,how are pointe shoes made,D15,Pointe shoe,D15-1,edge toe pad inserted foot toe box cushioning seen right foot,0
+Q15,how are pointe shoes made,D15,Pointe shoe,D15-2,pointe shoe type shoe worn ballet dancer performing pointe work,0
+Q15,how are pointe shoes made,D15,Pointe shoe,D15-3,pointe shoe developed desire dancer appear weightless sylph -like evolved enable dancer dance en pointe tip toe extended period time,0
+Q15,how are pointe shoes made,D15,Pointe shoe,D15-4,normally worn female dancer though male dancer may wear unorthodox role ugly stepsister cinderella bottom midsummer night 's dream men performing woman dance company le ballet trockadero grandiva,0
+Q15,how are pointe shoes made,D15,Pointe shoe,D15-5,manufactured variety color commonly shade light pink,0
+Q16,how much is 1 tablespoon of water,D16,Tablespoon,D16-0,tablespoon capacity 15 ml,1
+Q16,how much is 1 tablespoon of water,D16,Tablespoon,D16-1,measuring spoon,0
+Q16,how much is 1 tablespoon of water,D16,Tablespoon,D16-2,u part canada tablespoon largest type spoon used eating bowl,0
+Q16,how much is 1 tablespoon of water,D16,Tablespoon,D16-3,uk europe commonwealth country tablespoon type large spoon usually used serving,0
+Q16,how much is 1 tablespoon of water,D16,Tablespoon,D16-4,country tablespoon serving spoon nearest equivalent u tablespoon either dessert spoon soup spoon,0
+Q16,how much is 1 tablespoon of water,D16,Tablespoon,D16-5,tablespoonful nominally capacity one tablespoon commonly used measure volume cooking,0
+Q16,how much is 1 tablespoon of water,D16,Tablespoon,D16-6,abbreviated tb tb tbsp tblsp tblspn,0
+Q16,how much is 1 tablespoon of water,D16,Tablespoon,D16-7,capacity ordinary tablespoon regulated law subject considerable variation,0
+Q16,how much is 1 tablespoon of water,D16,Tablespoon,D16-8,usa one tablespoon measurement unit approximately 15 ml capacity actual tablespoon dining utensil range 7 ml 14 ml,1
+Q16,how much is 1 tablespoon of water,D16,Tablespoon,D16-9,australia one tablespoon measurement unit 20 ml,1
+Q17,how much are the harry potter movies worth,D17,Harry Potter,D17-0,harry potter series seven fantasy novel written british author j. k. rowling,0
+Q17,how much are the harry potter movies worth,D17,Harry Potter,D17-1,book chronicle adventure wizard harry potter friend ronald weasley hermione granger student hogwarts school witchcraft wizardry,0
+Q17,how much are the harry potter movies worth,D17,Harry Potter,D17-2,main story arc concern harry 's quest overcome dark wizard lord voldemort whose aim become immortal conquer wizarding world subjugate non-magical people destroy stand way especially harry potter,0
+Q17,how much are the harry potter movies worth,D17,Harry Potter,D17-3,since release first novel harry potter philosopher 's stone 30 june 1997 book gained immense popularity critical acclaim commercial success worldwide,0
+Q17,how much are the harry potter movies worth,D17,Harry Potter,D17-4,series also share criticism including concern increasingly dark tone,0
+Q17,how much are the harry potter movies worth,D17,Harry Potter,D17-5,book series sold 450 million copy making best-selling book series history translated 67 language,0
+Q17,how much are the harry potter movies worth,D17,Harry Potter,D17-6,last four book consecutively set record fastest-selling book history,0
+Q17,how much are the harry potter movies worth,D17,Harry Potter,D17-7,series many genre including fantasy coming age element mystery thriller adventure romance many cultural meaning reference,0
+Q17,how much are the harry potter movies worth,D17,Harry Potter,D17-8,according rowling main theme death,0
+Q17,how much are the harry potter movies worth,D17,Harry Potter,D17-9,also many theme series prejudice corruption,0
+Q17,how much are the harry potter movies worth,D17,Harry Potter,D17-10,initial major publisher book bloomsbury united kingdom scholastic press united state,0
+Q17,how much are the harry potter movies worth,D17,Harry Potter,D17-11,book since published many publisher worldwide,0
+Q17,how much are the harry potter movies worth,D17,Harry Potter,D17-12,book seventh book split two part made eight-part film series warner bros. picture highest-grossing film series time,0
+Q17,how much are the harry potter movies worth,D17,Harry Potter,D17-13,series also originated much tie-in merchandise making harry potter brand worth excess 15 billion,1
+Q17,how much are the harry potter movies worth,D17,Harry Potter,D17-14,also due success book film harry potter used theme park wizarding world harry potter universal park resort 's island adventure,0
+Q18,how a rocket engine works,D18,Rocket engine,D18-0,rs-68 tested nasa 's stennis space center,0
+Q18,how a rocket engine works,D18,Rocket engine,D18-1,nearly transparent exhaust due engine 's exhaust mostly superheated steam water vapor propellant hydrogen oxygen,0
+Q18,how a rocket engine works,D18,Rocket engine,D18-2,viking 5c rocket engine,0
+Q18,how a rocket engine works,D18,Rocket engine,D18-3,rocket engine simply `` rocket `` jet engine us stored propellant mass forming high speed propulsive jet,1
+Q18,how a rocket engine works,D18,Rocket engine,D18-4,rocket engine reaction engine obtain thrust accordance newton 's third law,0
+Q18,how a rocket engine works,D18,Rocket engine,D18-5,since need external material form jet rocket engine used spacecraft propulsion well terrestrial us missile,0
+Q18,how a rocket engine works,D18,Rocket engine,D18-6,rocket engine internal combustion engine although non-combusting form also exist,0
+Q18,how a rocket engine works,D18,Rocket engine,D18-7,rocket engine group highest exhaust velocity far lightest least propellant efficient type jet engine,0
+Q19,how old was britney spears when she recorded hit me baby one more time,D19,...Baby One More Time,D19-0,... baby one time song american recording artist britney spear,0
+Q19,how old was britney spears when she recorded hit me baby one more time,D19,...Baby One More Time,D19-1,served spear 's debut single title track debut studio album ... baby one time 1999,0
+Q19,how old was britney spears when she recorded hit me baby one more time,D19,...Baby One More Time,D19-2,written max martin produced martin ramus `` ... baby one time `` released september 30 1998 jive record,0
+Q19,how old was britney spears when she recorded hit me baby one more time,D19,...Baby One More Time,D19-3,recording sending demo tape unused song toni braxton spear signed multi-album deal jive,0
+Q19,how old was britney spears when she recorded hit me baby one more time,D19,...Baby One More Time,D19-4,... baby one time teen pop dance-pop song refers girl regret breaking boyfriend,0
+Q19,how old was britney spears when she recorded hit me baby one more time,D19,...Baby One More Time,D19-5,song received generally favorable review critic praised composition,0
+Q19,how old was britney spears when she recorded hit me baby one more time,D19,...Baby One More Time,D19-6,... baby one time attained global success reaching number one every country charted,0
+Q19,how old was britney spears when she recorded hit me baby one more time,D19,...Baby One More Time,D19-7,also received numerous certification around world one best-selling single time 10 million copy sold,0
+Q19,how old was britney spears when she recorded hit me baby one more time,D19,...Baby One More Time,D19-8,accompanying music video directed nigel dick portrays spear student catholic high school start daydream singing dancing around school watching love interest afar,0
+Q19,how old was britney spears when she recorded hit me baby one more time,D19,...Baby One More Time,D19-9,music video later referenced music video `` seek amy `` 2008 spear 's fictional daughter dressed similar schoolgirl outfit wearing pink ribbon hair,0
+Q19,how old was britney spears when she recorded hit me baby one more time,D19,...Baby One More Time,D19-10,2010 music video `` ... baby one time `` voted third influential video history pop music poll held jam,0
+Q19,how old was britney spears when she recorded hit me baby one more time,D19,...Baby One More Time,D19-11,spear performed `` ... baby one time `` number live appearance concert tour,0
+Q19,how old was britney spears when she recorded hit me baby one more time,D19,...Baby One More Time,D19-12,encore ... baby one time tour 1999 dream within dream tour 2001 spear also performed remixed version song oops ...,0
+Q19,how old was britney spears when she recorded hit me baby one more time,D19,...Baby One More Time,D19-13,world tour 2000 onyx hotel tour 2004 m+m 's tour 2007 circus starring britney spear 2009 femme fatale tour 2011,0
+Q19,how old was britney spears when she recorded hit me baby one more time,D19,...Baby One More Time,D19-14,... baby one time nominated grammy award best female pop vocal performance included list blender rolling stone vh1,0
+Q19,how old was britney spears when she recorded hit me baby one more time,D19,...Baby One More Time,D19-15,noted redefining sound late 1990s music,0
+Q19,how old was britney spears when she recorded hit me baby one more time,D19,...Baby One More Time,D19-16,spear named `` ... baby one time `` one favorite song career,0
+Q19,how old was britney spears when she recorded hit me baby one more time,D19,...Baby One More Time,D19-17,also final song played bbc 's music programme top pop,0
+Q20,how old was sue lyon when she made lolita,D20,Lolita (1962 film),D20-0,lolita 1962 comedy-drama film stanley kubrick based classic novel title vladimir nabokov centre around middle-aged man becomes obsessed teenage girl,0
+Q20,how old was sue lyon when she made lolita,D20,Lolita (1962 film),D20-1,film star james mason humbert humbert sue lyon dolores haze lolita shelley winter charlotte haze peter seller clare quilty,0
+Q20,how old was sue lyon when she made lolita,D20,Lolita (1962 film),D20-2,due mpaa 's restriction time film toned provocative aspect novel sometimes leaving much audience 's imagination,0
+Q20,how old was sue lyon when she made lolita,D20,Lolita (1962 film),D20-3,actress played lolita sue lyon fourteen time filming,1
+Q20,how old was sue lyon when she made lolita,D20,Lolita (1962 film),D20-4,kubrick later commented realized severe censorship limitation going probably never would made film,0
+Q21,how are cholera and typhus transmitted and prevented,D21,Cholera,D21-0,cholera infection small intestine caused bacterium vibrio cholerae,0
+Q21,how are cholera and typhus transmitted and prevented,D21,Cholera,D21-1,main symptom watery diarrhea vomiting,0
+Q21,how are cholera and typhus transmitted and prevented,D21,Cholera,D21-2,transmission occurs primarily drinking water eating food contaminated feces waste product infected person including one apparent symptom,1
+Q21,how are cholera and typhus transmitted and prevented,D21,Cholera,D21-3,severity diarrhea vomiting lead rapid dehydration electrolyte imbalance death case,0
+Q21,how are cholera and typhus transmitted and prevented,D21,Cholera,D21-4,primary treatment oral rehydration therapy typically oral rehydration solution replace water electrolyte,0
+Q21,how are cholera and typhus transmitted and prevented,D21,Cholera,D21-5,tolerated provide improvement fast enough intravenous fluid also used,0
+Q21,how are cholera and typhus transmitted and prevented,D21,Cholera,D21-6,antibacterial drug beneficial severe disease shorten duration severity,0
+Q21,how are cholera and typhus transmitted and prevented,D21,Cholera,D21-7,"worldwide affect 3-5 million people cause 100,000-130,000 death year",0
+Q21,how are cholera and typhus transmitted and prevented,D21,Cholera,D21-8,cholera one earliest infection studied epidemiological method,0
+Q22,how old is sybil vane in the picture of dorian gray,D22,The Picture of Dorian Gray,D22-0,picture dorian gray published novel oscar wilde appearing lead story lippincott 's monthly magazine 20 june 1890 printed july 1890 issue magazine,0
+Q22,how old is sybil vane in the picture of dorian gray,D22,The Picture of Dorian Gray,D22-1,magazine 's editor feared story indecent submitted censored roughly 500 word without wilde 's knowledge publication,0
+Q22,how old is sybil vane in the picture of dorian gray,D22,The Picture of Dorian Gray,D22-2,even story still greeted outrage british reviewer suggested wilde prosecuted moral ground leading wilde defend novel aggressively letter british press,0
+Q22,how old is sybil vane in the picture of dorian gray,D22,The Picture of Dorian Gray,D22-3,wilde later revised story book publication making substantial alteration deleting controversial passage adding new chapter including aphoristic preface since become famous right,0
+Q22,how old is sybil vane in the picture of dorian gray,D22,The Picture of Dorian Gray,D22-4,amended version published ward lock company april 1891,0
+Q22,how old is sybil vane in the picture of dorian gray,D22,The Picture of Dorian Gray,D22-5,scholar believe wilde would today wanted u read version originally submitted lippincott 's,0
+Q22,how old is sybil vane in the picture of dorian gray,D22,The Picture of Dorian Gray,D22-6,novel tell young man named dorian gray subject painting artist basil hallward,0
+Q22,how old is sybil vane in the picture of dorian gray,D22,The Picture of Dorian Gray,D22-7,basil impressed dorian 's beauty becomes infatuated believing beauty responsible new mode art,0
+Q22,how old is sybil vane in the picture of dorian gray,D22,The Picture of Dorian Gray,D22-8,dorian meet lord henry wotton friend basil 's becomes enthralled lord henry 's world view,0
+Q22,how old is sybil vane in the picture of dorian gray,D22,The Picture of Dorian Gray,D22-9,espousing new hedonism lord henry suggests thing worth pursuing life beauty fulfilment sens,0
+Q22,how old is sybil vane in the picture of dorian gray,D22,The Picture of Dorian Gray,D22-10,realizing one day beauty fade dorian whimsically express desire sell soul ensure portrait basil painted would age rather,0
+Q22,how old is sybil vane in the picture of dorian gray,D22,The Picture of Dorian Gray,D22-11,dorian 's wish fulfilled subsequently pursues life debauchery portrait serf reminder effect act upon soul sin displayed disfigurement form sign aging,0
+Q22,how old is sybil vane in the picture of dorian gray,D22,The Picture of Dorian Gray,D22-12,picture dorian gray considered work classic gothic fiction strong faustian theme,0
+Q23,how old is zsa zsa gabor's daughter,D23,Zsa Zsa Gabor,D23-0,sari gabor born 6 february 1917 known zsa zsa gabor hungarian -born american actress acted supporting role movie broadway occasionally television,0
+Q23,how old is zsa zsa gabor's daughter,D23,Zsa Zsa Gabor,D23-1,gabor also socialite,0
+Q23,how old is zsa zsa gabor's daughter,D23,Zsa Zsa Gabor,D23-2,began stage career vienna age 15 crowned miss hungary 1936,0
+Q23,how old is zsa zsa gabor's daughter,D23,Zsa Zsa Gabor,D23-3,emigrated united state 1941 became sought-after actress `` european flair style `` personality `` exuded charm grace ``,0
+Q23,how old is zsa zsa gabor's daughter,D23,Zsa Zsa Gabor,D23-4,first movie role supporting actress lovely look,0
+Q23,how old is zsa zsa gabor's daughter,D23,Zsa Zsa Gabor,D23-5,later acted married,0
+Q23,how old is zsa zsa gabor's daughter,D23,Zsa Zsa Gabor,D23-6,played one leading role moulin rouge 1952 directed john huston described `` creditable `` actress,0
+Q23,how old is zsa zsa gabor's daughter,D23,Zsa Zsa Gabor,D23-7,besides film television appearance best known nine husband including hotel magnate conrad hilton actor george sander,0
+Q23,how old is zsa zsa gabor's daughter,D23,Zsa Zsa Gabor,D23-8,stated `` men always liked always liked men,0
+Q23,how old is zsa zsa gabor's daughter,D23,Zsa Zsa Gabor,D23-9,like mannish man man know talk treat woman - man muscle ``,0
+Q24,how bruce lee died,D24,Bruce Lee,D24-0,bruce lee traditional Li Xiao Long born lee jun-fan 27 november 1940 - 20 july 1973 chinese american martial artist actor martial art instructor philosopher filmmaker,0
+Q24,how bruce lee died,D24,Bruce Lee,D24-1,founder jeet kune lee son cantonese opera star lee hoi-chuen,0
+Q24,how bruce lee died,D24,Bruce Lee,D24-2,widely considered commentator critic medium martial artist one influential martial artist time pop culture icon 20th century,0
+Q24,how bruce lee died,D24,Bruce Lee,D24-3,often credited helping change way asian presented american film,0
+Q24,how bruce lee died,D24,Bruce Lee,D24-4,lee born chinatown san francisco 27 november 1940 parent hong kong raised kowloon family late teen,0
+Q24,how bruce lee died,D24,Bruce Lee,D24-5,introduced film industry father appeared several film child actor,0
+Q24,how bruce lee died,D24,Bruce Lee,D24-6,lee moved united state age 18 receive higher education time began teaching martial art,0
+Q24,how bruce lee died,D24,Bruce Lee,D24-7,hong kong hollywood -produced film elevated traditional hong kong martial art film new level popularity acclaim sparking surge interest chinese martial art west 1970s,0
+Q24,how bruce lee died,D24,Bruce Lee,D24-8,direction tone film changed influenced martial art martial art film hong kong rest world,0
+Q24,how bruce lee died,D24,Bruce Lee,D24-9,noted role five feature-length film lo wei 's big bos 1971 fist fury 1972 way dragon 1972 directed written lee warner brother enter dragon 1973 game death 1978 directed robert clouse,0
+Q24,how bruce lee died,D24,Bruce Lee,D24-10,lee became iconic figure known throughout world particularly among chinese portrayed chinese nationalism film,0
+Q24,how bruce lee died,D24,Bruce Lee,D24-11,initially trained wing chun later rejected well-defined martial art style favouring instead use technique various source spirit personal martial art philosophy dubbed jeet kune way intercepting fist,0
+Q24,how bruce lee died,D24,Bruce Lee,D24-12,lee held dual citizenship hong kong united state,0
+Q24,how bruce lee died,D24,Bruce Lee,D24-13,died kowloon tong 20 july 1973 age 32,0
+Q25,how active can one be with copd,D25,Chronic obstructive pulmonary disease,D25-0,chronic obstructive pulmonary disease copd also known chronic obstructive lung disease cold chronic obstructive airway disease coad chronic airflow limitation cal chronic obstructive respiratory disease cord occurrence chronic bronchitis emphysema pair commonly co-existing disease lung airway narrow time,0
+Q25,how active can one be with copd,D25,Chronic obstructive pulmonary disease,D25-1,limit airflow lung causing shortness breath dyspnea,0
+Q25,how active can one be with copd,D25,Chronic obstructive pulmonary disease,D25-2,clinical practice copd defined characteristically low airflow lung function test,0
+Q25,how active can one be with copd,D25,Chronic obstructive pulmonary disease,D25-3,contrast asthma limitation poorly reversible usually get progressively worse time,0
+Q25,how active can one be with copd,D25,Chronic obstructive pulmonary disease,D25-4,copd caused noxious particle gas commonly tobacco smoking trigger abnormal inflammatory response lung,0
+Q25,how active can one be with copd,D25,Chronic obstructive pulmonary disease,D25-5,diagnosis copd requires lung function test,0
+Q25,how active can one be with copd,D25,Chronic obstructive pulmonary disease,D25-6,important management strategy smoking cessation vaccination rehabilitation drug therapy often using inhaler,0
+Q25,how active can one be with copd,D25,Chronic obstructive pulmonary disease,D25-7,patient go require long-term oxygen therapy lung transplantation,0
+Q25,how active can one be with copd,D25,Chronic obstructive pulmonary disease,D25-8,worldwide copd ranked sixth leading death 1990,0
+Q25,how active can one be with copd,D25,Chronic obstructive pulmonary disease,D25-9,projected become fourth leading death worldwide 2030 due increase smoking rate demographic change many country,0
+Q25,how active can one be with copd,D25,Chronic obstructive pulmonary disease,D25-10,copd third leading death you.s . economic burden copd you.s 2007 42.6 billion health care cost lost productivity,0
+Q26,how did anne frank die,D26,Anne Frank,D26-0,annelies `` anne `` marie frank 12 june 1929early march 1945 one discussed jewish victim holocaust,0
+Q26,how did anne frank die,D26,Anne Frank,D26-1,diary basis several play film,0
+Q26,how did anne frank die,D26,Anne Frank,D26-2,born city frankfurt main weimar germany lived life near amsterdam netherlands,0
+Q26,how did anne frank die,D26,Anne Frank,D26-3,born german national frank lost citizenship 1941,0
+Q26,how did anne frank die,D26,Anne Frank,D26-4,gained international fame posthumously diary published,0
+Q26,how did anne frank die,D26,Anne Frank,D26-5,document experience hiding german occupation netherlands world war ii,0
+Q26,how did anne frank die,D26,Anne Frank,D26-6,frank family moved germany amsterdam 1933 year nazi gained control germany,0
+Q26,how did anne frank die,D26,Anne Frank,D26-7,beginning 1940 trapped amsterdam nazi occupation netherlands,0
+Q26,how did anne frank die,D26,Anne Frank,D26-8,persecution jewish population increased july 1942 family went hiding hidden room anne 's father otto frank 's office building,0
+Q26,how did anne frank die,D26,Anne Frank,D26-9,two year group betrayed transported concentration camp,0
+Q26,how did anne frank die,D26,Anne Frank,D26-10,anne frank sister margot eventually transferred bergen-belsen concentration camp died typhus march 1945,1
+Q26,how did anne frank die,D26,Anne Frank,D26-11,otto frank survivor family returned amsterdam war find anne 's diary saved effort led publication 1947,0
+Q26,how did anne frank die,D26,Anne Frank,D26-12,translated original dutch first published english 1952 diary young girl,0
+Q26,how did anne frank die,D26,Anne Frank,D26-13,since translated many language,0
+Q26,how did anne frank die,D26,Anne Frank,D26-14,diary given anne 13th birthday chronicle life 12 june 1942 1 august 1944,0
+Q27,how old is kurt cobain's daughter,D27,Kurt Cobain,D27-0,kurt 's signature,0
+Q27,how old is kurt cobain's daughter,D27,Kurt Cobain,D27-1,kurt donald cobain february 20 1967 - april 5 1994 american musician artist best known lead singer guitarist primary songwriter grunge band nirvana,0
+Q27,how old is kurt cobain's daughter,D27,Kurt Cobain,D27-2,cobain formed nirvana krist novoselic aberdeen washington 1985 established part seattle music scene debut album bleach released independent record label sub pop 1989,0
+Q27,how old is kurt cobain's daughter,D27,Kurt Cobain,D27-3,signing major label dgc record band found breakthrough success `` smell like teen spirit `` second album nevermind 1991,0
+Q27,how old is kurt cobain's daughter,D27,Kurt Cobain,D27-4,following success nevermind nirvana labeled `` flagship band `` generation x cobain hailed `` spokesman generation ``,0
+Q27,how old is kurt cobain's daughter,D27,Kurt Cobain,D27-5,cobain however often uncomfortable frustrated believing message artistic vision misinterpreted public personal issue often subject medium attention,0
+Q27,how old is kurt cobain's daughter,D27,Kurt Cobain,D27-6,challenged nirvana 's audience final studio album utero 1993,0
+Q27,how old is kurt cobain's daughter,D27,Kurt Cobain,D27-7,last year life cobain struggled heroin addiction illness depression,0
+Q27,how old is kurt cobain's daughter,D27,Kurt Cobain,D27-8,also difficulty coping fame public image professional lifelong personal pressure surrounding wife musician courtney love,0
+Q27,how old is kurt cobain's daughter,D27,Kurt Cobain,D27-9,april 8 1994 cobain found dead home seattle victim officially ruled suicide self-inflicted shotgun wound head,0
+Q27,how old is kurt cobain's daughter,D27,Kurt Cobain,D27-10,circumstance death age 27 become topic public fascination debate,0
+Q27,how old is kurt cobain's daughter,D27,Kurt Cobain,D27-11,since debut nirvana cobain songwriter sold 25 million album you.s . 50 million worldwide,0
+Q28,how are aircraft radial engines built,D28,Radial engine,D28-0,radial engine timing cam mechanism,0
+Q28,how are aircraft radial engines built,D28,Radial engine,D28-1,click full resolution animation,0
+Q28,how are aircraft radial engines built,D28,Radial engine,D28-2,radial engine biplane,0
+Q28,how are aircraft radial engines built,D28,Radial engine,D28-3,master rod upright slave balance two-row fourteen-cylinder pratt whitney twin wasp,0
+Q28,how are aircraft radial engines built,D28,Radial engine,D28-4,radial engine reciprocating type internal combustion engine configuration cylinder point outward central crankshaft like spoke wheel,1
+Q28,how are aircraft radial engines built,D28,Radial engine,D28-5,resembles stylized star viewed front called `` star engine `` german sternmotor language,0
+Q28,how are aircraft radial engines built,D28,Radial engine,D28-6,radial configuration commonly used aircraft engine turbine engine became predominant,0
+Q29,how old were golden girls at time of show,D29,The Golden Girls,D29-0,golden girl american sitcom created susan harris originally aired nbc september 13 1985 may 9 1992,0
+Q29,how old were golden girls at time of show,D29,The Golden Girls,D29-1,starring bea arthur betty white rue mcclanahan estelle getty show center four older woman sharing home miami florida,0
+Q29,how old were golden girls at time of show,D29,The Golden Girls,D29-2,produced witt/thomas/harris production association touchstone television paul junger witt tony thomas harris served original executive producer,0
+Q29,how old were golden girls at time of show,D29,The Golden Girls,D29-3,golden girl received critical acclaim throughout run several award including primetime emmy award outstanding comedy series twice,0
+Q29,how old were golden girls at time of show,D29,The Golden Girls,D29-4,also three golden globe award best television series - musical comedy,0
+Q29,how old were golden girls at time of show,D29,The Golden Girls,D29-5,four star received emmy award throughout series run multiple nomination,0
+Q29,how old were golden girls at time of show,D29,The Golden Girls,D29-6,series also ranked among top ten highest-rated program six seven season,0
+Q30,how deep can be drill for deep underwater,D30,Deepwater drilling,D30-0,deepwater drilling process oil gas exploration production depth 500 foot,1
+Q30,how deep can be drill for deep underwater,D30,Deepwater drilling,D30-1,definition approximately 600 deepwater well gulf mexico,0
+Q30,how deep can be drill for deep underwater,D30,Deepwater drilling,D30-2,economically infeasible many year rising oil price company investing area,0
+Q30,how deep can be drill for deep underwater,D30,Deepwater drilling,D30-3,major company working sector include diamond offshore transocean baker hughes,0
+Q30,how deep can be drill for deep underwater,D30,Deepwater drilling,D30-4,basically two kind mobile deepwater drilling rig semi-submersible drilling rig drillships,0
+Q30,how deep can be drill for deep underwater,D30,Deepwater drilling,D30-5,drilling also performed fixed-position installation floating spar platform tension-leg platform,0
+Q30,how deep can be drill for deep underwater,D30,Deepwater drilling,D30-6,recent industry analysis estimated total expenditure global deepwater infrastructure market reach 145bn 2011,0
+Q30,how deep can be drill for deep underwater,D30,Deepwater drilling,D30-7,`` oil accessible land shallow water,0
+Q30,how deep can be drill for deep underwater,D30,Deepwater drilling,D30-8,find oil deposit buried deep ocean floor. `` ... using sonic equipment oil company determine drilling site likely produce oil,0
+Q30,how deep can be drill for deep underwater,D30,Deepwater drilling,D30-9,use mobile offshore drilling unit modu dig initial well,0
+Q30,how deep can be drill for deep underwater,D30,Deepwater drilling,D30-10,unit converted production rig meaning switch drilling oil capturing oil found,0
+Q30,how deep can be drill for deep underwater,D30,Deepwater drilling,D30-11,time oil company replace modu permanent oil production rig capture oil. `` ... modu 's job drill ocean 's floor find oil deposit,0
+Q30,how deep can be drill for deep underwater,D30,Deepwater drilling,D30-12,part drill extends deck water called riser,0
+Q30,how deep can be drill for deep underwater,D30,Deepwater drilling,D30-13,riser allows drilling fluid move floor rig,0
+Q30,how deep can be drill for deep underwater,D30,Deepwater drilling,D30-14,engineer lower drill string -- series pipe designed drill oil deposit -- riser ``,0
+Q30,how deep can be drill for deep underwater,D30,Deepwater drilling,D30-15,`` expansion deepwater drilling happening despite accident offshore field ... ``,0
+Q30,how deep can be drill for deep underwater,D30,Deepwater drilling,D30-16,2010 large explosion occurred killing 11 worker spilling million gallon oil gulf mexico bp oil rig drilling deep water,0
+Q30,how deep can be drill for deep underwater,D30,Deepwater drilling,D30-17,`` ... despite risk deepwater drilling trend spreading mediterranean coast east africa string huge discovery natural gas ``,0
+Q30,how deep can be drill for deep underwater,D30,Deepwater drilling,D30-18,`` reason resumption drilling analyst say continuing high demand energy worldwide ``,0
+Q30,how deep can be drill for deep underwater,D30,Deepwater drilling,D30-19,america need oil almost necessary face high risk come deepwater drilling order american continue carry everyday life,0
+Q30,how deep can be drill for deep underwater,D30,Deepwater drilling,D30-20,`` energy department recently projected gulf oil production would expand 2011 level 1.3 million barrel day still nearly quarter total domestic production 2 million barrel day 2020 ``,0
+Q30,how deep can be drill for deep underwater,D30,Deepwater drilling,D30-21,deepwater drilling affect environment negative positive way,0
+Q30,how deep can be drill for deep underwater,D30,Deepwater drilling,D30-22,although deepwater drilling rarely cause oil spill still hazardous possible outcome,0
+Q30,how deep can be drill for deep underwater,D30,Deepwater drilling,D30-23,oil spill result oil sinking bottom ocean smothering plant life leaving fish without food shelter survive,0
+Q30,how deep can be drill for deep underwater,D30,Deepwater drilling,D30-24,hand deepwater drilling effect environment positive way,0
+Q30,how deep can be drill for deep underwater,D30,Deepwater drilling,D30-25,time deepwater oil well use anymore plant grow around well making cave cavern like shelter ideal animal thrive,0
+Q30,how deep can be drill for deep underwater,D30,Deepwater drilling,D30-26,deepwater drilling also let u u see depth ocean floor hardly ever seen,0
+Q30,how deep can be drill for deep underwater,D30,Deepwater drilling,D30-27,`` camera rover bottom well record footage take photo rare fish natural habitat giving scientist look animal rarely seen `` chevron corporation ``,0
+Q31,how old was monica lewinsky during the affair,D31,Monica Lewinsky,D31-0,monica samille lewinsky born july 23 1973 american woman united state president bill clinton admitted `` improper relationship `` worked white house 1995 1996,1
+Q31,how old was monica lewinsky during the affair,D31,Monica Lewinsky,D31-1,affair repercussion included clinton 's impeachment became known lewinsky scandal,0
+Q32,how long was frank sinatra famous,D32,Frank Sinatra,D32-0,francis albert `` frank `` sinatra december 12 1915 - may 14 1998 american singer film actor,0
+Q32,how long was frank sinatra famous,D32,Frank Sinatra,D32-1,beginning musical career swing era harry james tommy dorsey sinatra found unprecedented success solo artist early mid-1940s signed columbia record 1943,1
+Q32,how long was frank sinatra famous,D32,Frank Sinatra,D32-2,idol `` bobby soxers `` released first album voice frank sinatra 1946,0
+Q32,how long was frank sinatra famous,D32,Frank Sinatra,D32-3,professional career stalled 1950s reborn 1953 academy award best supporting actor performance eternity,0
+Q32,how long was frank sinatra famous,D32,Frank Sinatra,D32-4,signed capitol record 1953 released several critically lauded album wee small hour song swingin lover come fly lonely nice 'n easy,0
+Q32,how long was frank sinatra famous,D32,Frank Sinatra,D32-5,sinatra left capitol found record label reprise record 1961 finding success album ring-a-ding-ding sinatra sand francis albert sinatra antonio carlos jobim toured internationally founding member rat pack fraternized celebrity statesman including john f. kennedy,0
+Q32,how long was frank sinatra famous,D32,Frank Sinatra,D32-6,sinatra turned 50 1965 recorded retrospective september year starred emmy -winning television special frank sinatra man music scored hit `` stranger night `` `` way ``,0
+Q32,how long was frank sinatra famous,D32,Frank Sinatra,D32-7,sale music dwindling appearing several poorly received film sinatra retired first time 1971,0
+Q32,how long was frank sinatra famous,D32,Frank Sinatra,D32-8,two year later however came retirement 1973 recorded several album scoring top 40 hit `` theme new york new york `` 1980,0
+Q32,how long was frank sinatra famous,D32,Frank Sinatra,D32-9,using la vega show home base toured within united state internationally short time death 1998,0
+Q32,how long was frank sinatra famous,D32,Frank Sinatra,D32-10,sinatra also forged highly successful career film actor,0
+Q32,how long was frank sinatra famous,D32,Frank Sinatra,D32-11,winning best supporting actor 1953 also garnered nomination best actor man golden arm critical acclaim performance manchurian candidate,0
+Q32,how long was frank sinatra famous,D32,Frank Sinatra,D32-12,also starred musical high society pal joey guy doll town,0
+Q32,how long was frank sinatra famous,D32,Frank Sinatra,D32-13,sinatra honored kennedy center honor 1983 awarded presidential medal freedom ronald reagan 1985 congressional gold medal 1997,0
+Q32,how long was frank sinatra famous,D32,Frank Sinatra,D32-14,recipient eleven grammy award including grammy trustee award grammy legend award grammy lifetime achievement award,0
+Q32,how long was frank sinatra famous,D32,Frank Sinatra,D32-15,sinatra also one world ' best-selling artist time sold 150 million copy worldwide,0
+Q33,how are antibodies used in,D33,antibody,D33-0,antibody bind specific antigen interaction similar lock key,0
+Q33,how are antibodies used in,D33,antibody,D33-1,antibody ab also known immunoglobulin ig large y-shaped protein produced b-cells used immune system identify neutralize foreign object bacteria virus,1
+Q33,how are antibodies used in,D33,antibody,D33-2,antibody recognizes unique part foreign target called antigen,1
+Q33,how are antibodies used in,D33,antibody,D33-3,tip `` `` antibody contains paratope structure analogous lock specific one particular epitope similarly analogous key antigen allowing two structure bind together precision,1
+Q33,how are antibodies used in,D33,antibody,D33-4,using binding mechanism antibody tag microbe infected cell attack part immune system neutralize target directly example blocking part microbe essential invasion survival,1
+Q33,how are antibodies used in,D33,antibody,D33-5,production antibody main function humoral immune system,0
+Q33,how are antibodies used in,D33,antibody,D33-6,antibody secreted type white blood cell called plasma cell,0
+Q33,how are antibodies used in,D33,antibody,D33-7,antibody occur two physical form soluble form secreted cell membrane -bound form attached surface b cell referred b cell receptor bcr,0
+Q33,how are antibodies used in,D33,antibody,D33-8,bcr found surface b cell facilitates activation cell subsequent differentiation either antibody factory called plasma cell memory b cell survive body remember antigen b cell respond faster upon future exposure,0
+Q33,how are antibodies used in,D33,antibody,D33-9,case interaction b cell helper cell necessary produce full activation b cell therefore antibody generation following antigen binding,0
+Q33,how are antibodies used in,D33,antibody,D33-10,soluble antibody released blood tissue fluid well many secretion continue survey invading microorganism,0
+Q33,how are antibodies used in,D33,antibody,D33-11,antibody glycoprotein belonging immunoglobulin superfamily term antibody immunoglobulin often used interchangeably,0
+Q33,how are antibodies used in,D33,antibody,D33-12,antibody typically made basic structural unit -- each two large heavy chain two small light chain,0
+Q33,how are antibodies used in,D33,antibody,D33-13,several different type antibody heavy chain several different kind antibody grouped different isotypes based heavy chain posse,0
+Q33,how are antibodies used in,D33,antibody,D33-14,five different antibody isotypes known mammal perform different role help direct appropriate immune response different type foreign object encounter,0
+Q33,how are antibodies used in,D33,antibody,D33-15,though general structure antibody similar small region tip protein extremely variable allowing million antibody slightly different tip structure antigen binding site exist,0
+Q33,how are antibodies used in,D33,antibody,D33-16,region known hypervariable region,0
+Q33,how are antibodies used in,D33,antibody,D33-17,variant bind different antigen,0
+Q33,how are antibodies used in,D33,antibody,D33-18,enormous diversity antibody allows immune system recognize equally wide variety antigen,0
+Q33,how are antibodies used in,D33,antibody,D33-19,large diverse population antibody generated random combination set gene segment encode different antigen binding site paratopes followed random mutation area antibody gene create diversity,0
+Q33,how are antibodies used in,D33,antibody,D33-20,antibody gene also re-organize process called class switching change base heavy chain another creating different isotype antibody retains antigen specific variable region,0
+Q33,how are antibodies used in,D33,antibody,D33-21,allows single antibody used several different part immune system,0
+Q34,how big is cornhole hole,D34,Cornhole,D34-0,typical cornhole board,0
+Q34,how big is cornhole hole,D34,Cornhole,D34-1,cornhole also known bean bag toss corn toss baggo bag lawn game player take turn throwing corn hole bag raised platform hole far end,0
+Q34,how big is cornhole hole,D34,Cornhole,D34-2,bag hole score 3 point one platform score 1 point,0
+Q34,how big is cornhole hole,D34,Cornhole,D34-3,play continues team player reach score 21,0
+Q35,how much is a gold 1986 American Eagle worth?,D35,American Gold Eagle,D35-0,american gold eagle official gold bullion coin united state,0
+Q35,how much is a gold 1986 American Eagle worth?,D35,American Gold Eagle,D35-1,authorized gold bullion coin act 1985 first released united state mint 1986,0
+Q36,how much is Hot yoga growing yearly,D36,Bikram Yoga,D36-0,bikram yoga system yoga bikram choudhury synthesized traditional hatha yoga technique popularized beginning early 1970s,0
+Q36,how much is Hot yoga growing yearly,D36,Bikram Yoga,D36-1,bikram yoga class run 90 minute consist series 26 posture 2 breathing exercise,0
+Q36,how much is Hot yoga growing yearly,D36,Bikram Yoga,D36-2,bikram yoga ideally practiced room heated 105degf 40.6degc humidity 40,0
+Q37,how old are the massey brothers,D37,Christopher Massey,D37-0,christopher michael massey born 26 january 1990 american actor comedian rapper best known starring michael barret nickelodeon television series zoey 101,0
+Q37,how old are the massey brothers,D37,Christopher Massey,D37-1,massey received many award nomination including young artist award emmy award nomination,0
+Q37,how old are the massey brothers,D37,Christopher Massey,D37-2,also known appearing several commercial early 2000s,0
+Q38,how much is 7 teaspoons',D38,Teaspoon,D38-0,conventional teaspoon made stainless steel,0
+Q38,how much is 7 teaspoons',D38,Teaspoon,D38-1,teaspoon item cutlery and/or measuring instrument well unit measurement volume country custom,0
+Q39,how are the archegonia of the fern and pine cone similar,D39,Fern,D39-0,"fern one group 12,000 specie plant belonging botanical group known pteridophyta",0
+Q39,how are the archegonia of the fern and pine cone similar,D39,Fern,D39-1,unlike moss xylem phloem making vascular plant,0
+Q39,how are the archegonia of the fern and pine cone similar,D39,Fern,D39-2,stem leaf root like vascular plant,0
+Q39,how are the archegonia of the fern and pine cone similar,D39,Fern,D39-3,fern reproduce via spore neither seed flower,0
+Q39,how are the archegonia of the fern and pine cone similar,D39,Fern,D39-4,far largest group fern leptosporangiate fern fern defined also called monilophytes include horsetail whisk fern marattioid fern ophioglossoid fern,0
+Q39,how are the archegonia of the fern and pine cone similar,D39,Fern,D39-5,term pteridophyte also refers fern seedless vascular plant see classification section,0
+Q39,how are the archegonia of the fern and pine cone similar,D39,Fern,D39-6,fern first appear fossil record 360 million year ago carboniferous many current family specie appear roughly 145 million year ago early cretaceous flowering plant came dominate many environment,0
+Q39,how are the archegonia of the fern and pine cone similar,D39,Fern,D39-7,fern major economic importance grown gathered food ornamental plant remediating contaminated soil subject research ability remove chemical pollutant air,0
+Q39,how are the archegonia of the fern and pine cone similar,D39,Fern,D39-8,significant weed,0
+Q39,how are the archegonia of the fern and pine cone similar,D39,Fern,D39-9,also play role mythology medicine art,0
+Q40,how long is a flat membrane roof good for?,D40,Flat roof,D40-0,flat roof israel,0
+Q40,how long is a flat membrane roof good for?,D40,Flat roof,D40-1,flat roof los angeles,0
+Q40,how long is a flat membrane roof good for?,D40,Flat roof,D40-2,flat roof type covering building,0
+Q40,how long is a flat membrane roof good for?,D40,Flat roof,D40-3,contrast sloped form roof flat roof horizontal nearly horizontal,0
+Q40,how long is a flat membrane roof good for?,D40,Flat roof,D40-4,slope roof properly known pitch roof nearly flat known low-pitch roof angle slope increase pitch said increase,0
+Q40,how long is a flat membrane roof good for?,D40,Flat roof,D40-5,sheet material used cover flat low-pitched roof usually known membrane primary purpose membrane waterproof roof area,0
+Q40,how long is a flat membrane roof good for?,D40,Flat roof,D40-6,material cover flat roof typically allow water run slight inclination camber gutter system,0
+Q40,how long is a flat membrane roof good for?,D40,Flat roof,D40-7,water flat roof garden shed sometimes flow freely edge roof though gutter system advantage keeping wall foundation dry,0
+Q40,how long is a flat membrane roof good for?,D40,Flat roof,D40-8,gutter smaller roof often lead water directly onto ground better specially made soakaway,0
+Q40,how long is a flat membrane roof good for?,D40,Flat roof,D40-9,gutter larger roof usually lead water rainwater drainage system built area,0
+Q40,how long is a flat membrane roof good for?,D40,Flat roof,D40-10,occasionally flat roof though designed collect water pool usually aesthetic purpose rainwater buffering,0
+Q40,how long is a flat membrane roof good for?,D40,Flat roof,D40-11,flat roof exist world area tradition preference material used,0
+Q40,how long is a flat membrane roof good for?,D40,Flat roof,D40-12,warmer clime rainfall le freezing unlikely occur many flat roof simply built masonry concrete good keeping heat sun cheap easy build timber readily available,0
+Q40,how long is a flat membrane roof good for?,D40,Flat roof,D40-13,area roof could become saturated rain leak water soaked brickwork could freeze ice thus lead 'blowing breaking mortar/brickwork/concrete expansion ice form roof suitable,0
+Q40,how long is a flat membrane roof good for?,D40,Flat roof,D40-14,traditionally flat roof western world make use tar usually tar paper applied roof decking keep building watertight,0
+Q40,how long is a flat membrane roof good for?,D40,Flat roof,D40-15,tar tarpaper turn covered gravel keep sun 's heat uv ray weather help protect cracking blistering degradation,0
+Q40,how long is a flat membrane roof good for?,D40,Flat roof,D40-16,roof decking usually plywood chipboard osb board osb oriented strand board also known sterling board around 18mm thickness,0
+Q40,how long is a flat membrane roof good for?,D40,Flat roof,D40-17,tar coating applied one coat hot liquid heated tar kettle sheet tar impregnated 'paper glued sealed together joint hot tar cooled gravel spread evenly,0
+Q40,how long is a flat membrane roof good for?,D40,Flat roof,D40-18,main reason failure traditional roof ignorance lack maintenance people event gravel moved removed tar tarpaper waterproofing thus exposing weather sun whereupon cracking blistering occurs time eventually water get,0
+Q40,how long is a flat membrane roof good for?,D40,Flat roof,D40-19,tarpaper usually 'paper fibre material soaked impregnated tar,0
+Q40,how long is a flat membrane roof good for?,D40,Flat roof,D40-20,gravel protect tarpaper surface rise vertically roof parapet wall upstands tarpaper variant produced fine gravel applied hot tar process manufacture permanent layer gravel stuck order give ongoing protection,0
+Q40,how long is a flat membrane roof good for?,D40,Flat roof,D40-21,tarpapers vary quality workmanship training applying produce le successful result,0
+Q40,how long is a flat membrane roof good for?,D40,Flat roof,D40-22,micro climate shaded area rather 'basic tarpaper roof last well relation cost material purchase cost laying however cost modern membrane epdm come recent year make affordable,0
+Q40,how long is a flat membrane roof good for?,D40,Flat roof,D40-23,firm supplying modern alternative generally growing awareness performance availability,0
+Q40,how long is a flat membrane roof good for?,D40,Flat roof,D40-24,leak occur flat roof damage often go unnoticed long period time water penetrates soak decking insulation and/or structure beneath,0
+Q40,how long is a flat membrane roof good for?,D40,Flat roof,D40-25,lead expensive damage rot often develops left weaken roof structure,0
+Q40,how long is a flat membrane roof good for?,D40,Flat roof,D40-26,also various health risk people animal breathing mould spore severity health risk remains debated point,0
+Q40,how long is a flat membrane roof good for?,D40,Flat roof,D40-27,one problem maintaining flat roof water penetrate barrier covering traditional modern membrane travel long way causing visible damage leaking building seen,0
+Q40,how long is a flat membrane roof good for?,D40,Flat roof,D40-28,thus easy see leaking order repair,0
+Q40,how long is a flat membrane roof good for?,D40,Flat roof,D40-29,underlying roof decking soaked often sag causing collection puddling water area problem worsens,0
+Q41,how cds are read,D41,CD-ROM,D41-0,cd-rom pre-pressed compact disc contains data,0
+Q41,how cds are read,D41,CD-ROM,D41-1,name acronym stand `` compact disc read-only memory ``,0
+Q41,how cds are read,D41,CD-ROM,D41-2,computer read cd-rom write,0
+Q41,how cds are read,D41,CD-ROM,D41-3,cd-rom popularly used distribute computer software including video game multimedia application though data stored capacity limit disc,0
+Q41,how cds are read,D41,CD-ROM,D41-4,cd called enhanced cd hold computer data audio latter capable played cd player data software digital video usable computer iso 9660 format pc cd-rom,0
+Q41,how cds are read,D41,CD-ROM,D41-5,yellow book technical standard defines format cd-rom,0
+Q41,how cds are read,D41,CD-ROM,D41-6,one set color-bound book contain technical specification cd format yellow book created sony philip first extension compact disc digital audio,0
+Q41,how cds are read,D41,CD-ROM,D41-7,adapted format hold form data,0
+Q42,how much is jk rowling worth,D42,J. K. Rowling,D42-0,joanne `` jo `` rowling born 31 july 1965 pen name j. k. rowling british novelist best known author harry potter fantasy series,0
+Q42,how much is jk rowling worth,D42,J. K. Rowling,D42-1,potter book gained worldwide attention multiple award sold 400 million copy,0
+Q42,how much is jk rowling worth,D42,J. K. Rowling,D42-2,become best-selling book series history basis series film become highest-grossing film series history,0
+Q42,how much is jk rowling worth,D42,J. K. Rowling,D42-3,rowling overall approval script well maintaining creative control serving producer final instalment,0
+Q42,how much is jk rowling worth,D42,J. K. Rowling,D42-4,born yate gloucestershire rowling working researcher bilingual secretary amnesty international conceived idea harry potter series delayed train manchester london 1990,0
+Q42,how much is jk rowling worth,D42,J. K. Rowling,D42-5,seven-year period followed entailed death mother divorce first husband poverty rowling finished first novel series harry potter philosopher 's stone 1997,0
+Q42,how much is jk rowling worth,D42,J. K. Rowling,D42-6,rowling subsequently published 6 sequel -- the last harry potter deathly hallows 2007 -- a well 3 supplement series,0
+Q42,how much is jk rowling worth,D42,J. K. Rowling,D42-7,2012 rowling parted agency resumed writing form tragicomedy novel aimed adult readership entitled casual vacancy,0
+Q42,how much is jk rowling worth,D42,J. K. Rowling,D42-8,rowling said currently working two book -- one aimed adult child younger harry potter audience expects latter published first,0
+Q42,how much is jk rowling worth,D42,J. K. Rowling,D42-9,rowling led `` rag rich `` life story progressed living state benefit multi-millionaire status within five year,0
+Q42,how much is jk rowling worth,D42,J. K. Rowling,D42-10,united kingdom 's best-selling author since record began sale excess PS238m,0
+Q42,how much is jk rowling worth,D42,J. K. Rowling,D42-11,2008 sunday time rich list estimated rowling 's fortune PS560 million 798 million ranking twelfth richest woman united kingdom,1
+Q42,how much is jk rowling worth,D42,J. K. Rowling,D42-12,forbes ranked rowling forty-eighth powerful celebrity 2007 time magazine named runner-up 2007 person year noting social moral political inspiration given fan,0
+Q42,how much is jk rowling worth,D42,J. K. Rowling,D42-13,october 2010 rowling named `` influential woman britain `` leading magazine editor,0
+Q42,how much is jk rowling worth,D42,J. K. Rowling,D42-14,become notable philanthropist supporting charity comic relief one parent family multiple sclerosis society great britain lumos formerly child 's high level group,0
+Q43,how big is auburndale florida,D43,"Auburndale, Florida",D43-0,auburndale city polk county florida united state,0
+Q43,how big is auburndale florida,D43,"Auburndale, Florida",D43-1,"population 11,032 2000 census",0
+Q43,how big is auburndale florida,D43,"Auburndale, Florida",D43-2,"according you.s census estimate 2005 city population 12,381",1
+Q43,how big is auburndale florida,D43,"Auburndale, Florida",D43-3,part lakeland - winter metropolitan statistical area,0
+Q44,how are tropical storms and hurricanes named,D44,Tropical cyclone,D44-0,hurricane isabel 2003 seen orbit expedition 7 international space station,0
+Q44,how are tropical storms and hurricanes named,D44,Tropical cyclone,D44-1,eye eyewall surrounding rainbands characteristic tropical cyclone clearly visible view space,0
+Q44,how are tropical storms and hurricanes named,D44,Tropical cyclone,D44-2,tropical cyclone storm system characterized low-pressure center surrounded spiral arrangement thunderstorm produce strong wind heavy rain,0
+Q44,how are tropical storms and hurricanes named,D44,Tropical cyclone,D44-3,tropical cyclone strengthen water evaporated ocean released saturated air rise resulting condensation water vapor contained moist air,0
+Q44,how are tropical storms and hurricanes named,D44,Tropical cyclone,D44-4,fueled different heat mechanism cyclonic windstorm nor'easters european windstorm polar low,0
+Q44,how are tropical storms and hurricanes named,D44,Tropical cyclone,D44-5,characteristic separate tropical cyclone cyclonic system height atmosphere center tropical cyclone warmer surroundings phenomenon called `` warm core `` storm system,0
+Q44,how are tropical storms and hurricanes named,D44,Tropical cyclone,D44-6,term `` tropical `` refers geographical origin system usually form tropical region globe formation maritime tropical air mass,0
+Q44,how are tropical storms and hurricanes named,D44,Tropical cyclone,D44-7,term `` cyclone `` refers storm cyclonic nature counterclockwise wind flow northern hemisphere clockwise wind flow southern hemisphere,0
+Q44,how are tropical storms and hurricanes named,D44,Tropical cyclone,D44-8,opposite direction wind flow result coriolis force,0
+Q44,how are tropical storms and hurricanes named,D44,Tropical cyclone,D44-9,depending location strength tropical cyclone referred name hurricane typhoon tropical storm cyclonic storm tropical depression simply cyclone,0
+Q44,how are tropical storms and hurricanes named,D44,Tropical cyclone,D44-10,tropical cyclone produce extremely powerful wind torrential rain also able produce high wave damaging storm surge tornado,0
+Q44,how are tropical storms and hurricanes named,D44,Tropical cyclone,D44-11,develop large body warm water lose strength move land due increased surface friction loss warm ocean energy source,0
+Q44,how are tropical storms and hurricanes named,D44,Tropical cyclone,D44-12,coastal region receive significant damage tropical cyclone inland region relatively safe receiving strong wind,0
+Q44,how are tropical storms and hurricanes named,D44,Tropical cyclone,D44-13,heavy rain however produce significant flooding inland storm surge produce extensive coastal flooding coastline,0
+Q44,how are tropical storms and hurricanes named,D44,Tropical cyclone,D44-14,although effect human population devastating tropical cyclone relieve drought condition,0
+Q44,how are tropical storms and hurricanes named,D44,Tropical cyclone,D44-15,also carry heat energy away tropic transport toward temperate latitude make important part global atmospheric circulation mechanism,0
+Q44,how are tropical storms and hurricanes named,D44,Tropical cyclone,D44-16,result tropical cyclone help maintain equilibrium earth 's troposphere maintain relatively stable warm temperature worldwide,0
+Q44,how are tropical storms and hurricanes named,D44,Tropical cyclone,D44-17,many tropical cyclone develop atmospheric condition around weak disturbance atmosphere favorable,0
+Q44,how are tropical storms and hurricanes named,D44,Tropical cyclone,D44-18,background environment modulated climatological cycle pattern madden-julian oscillation el nino-southern oscillation atlantic multidecadal oscillation,0
+Q44,how are tropical storms and hurricanes named,D44,Tropical cyclone,D44-19,others form type cyclone acquire tropical characteristic,0
+Q44,how are tropical storms and hurricanes named,D44,Tropical cyclone,D44-20,tropical system moved steering wind troposphere condition remain favorable tropical disturbance intensifies even develop eye,0
+Q44,how are tropical storms and hurricanes named,D44,Tropical cyclone,D44-21,end spectrum condition around system deteriorate tropical cyclone make landfall system weakens eventually dissipates,0
+Q44,how are tropical storms and hurricanes named,D44,Tropical cyclone,D44-22,possible artificially induce dissipation system current technology,0
+Q45,"how old is kirk douglas, the actor?",D45,Kirk Douglas,D45-0,kirk douglas born issur danielovitch december 9 1916 american stage film actor film producer author,1
+Q45,"how old is kirk douglas, the actor?",D45,Kirk Douglas,D45-1,"popular film include past 1947 champion 1949 ace hole 1951 bad beautiful 1952 20,000 league sea 1954 lust life 1956 path glory 1957 gunfight o.k corral 1957 viking 1958 spartacus 1960 lonely brave 1962 seven day may 1964 hero telemark 1965 tough guy 1986",0
+Q45,"how old is kirk douglas, the actor?",D45,Kirk Douglas,D45-2,no.17 american film institute 's list greatest male american screen legend time making highest-ranked living person list,0
+Q45,"how old is kirk douglas, the actor?",D45,Kirk Douglas,D45-3,1996 received academy honorary award `` 50 year creative moral force motion picture community ``,0
+Q45,"how old is kirk douglas, the actor?",D45,Kirk Douglas,D45-4,one last surviving actor hollywood 's `` golden age ``,0
+Q46,how old is the singer bob seger,D46,Bob Seger,D46-0,robert clark `` bob `` seger born may 6 1945 american rock roll singer-songwriter guitarist pianist,1
+Q46,how old is the singer bob seger,D46,Bob Seger,D46-1,locally successful detroit-area artist performed recorded bob seger last heard bob seger system throughout 1960s,0
+Q46,how old is the singer bob seger,D46,Bob Seger,D46-2,early 1970s dropped `` system `` recording continued strive broader success various band,0
+Q46,how old is the singer bob seger,D46,Bob Seger,D46-3,1973 put together silver bullet band group detroit-area musician became successful national level album live bullet recorded live silver bullet band 1975 cobo hall detroit michigan,0
+Q46,how old is the singer bob seger,D46,Bob Seger,D46-4,1976 achieved national breakout studio album night move,0
+Q46,how old is the singer bob seger,D46,Bob Seger,D46-5,studio album also worked extensively alabama-based muscle shoal rhythm section appeared several seger 's best-selling single album,0
+Q46,how old is the singer bob seger,D46,Bob Seger,D46-6,root rocker classic raspy shouting voice seger wrote recorded song dealt love woman blue-collar theme exemplar heartland rock,0
+Q46,how old is the singer bob seger,D46,Bob Seger,D46-7,seger recorded many hit including `` night move `` `` turn page `` `` got tonight `` `` wind `` shakedown written beverly hill cop ii `` like rock `` also co-wrote eagle number-one hit `` heartache tonight ``,0
+Q46,how old is the singer bob seger,D46,Bob Seger,D46-8,iconic recording `` old time rock roll `` named one song century 2001,0
+Q46,how old is the singer bob seger,D46,Bob Seger,D46-9,career spanning five decade seger continues perform record today,0
+Q46,how old is the singer bob seger,D46,Bob Seger,D46-10,seger inducted rock roll hall fame 2004 songwriter hall fame 2012,0
+Q47,how old is alicia in 2009,D47,Alicia Keys,D47-0,alicia augello cook born january 25 1981 known professionally alicia key american r b singer-songwriter musician record producer actress,0
+Q47,how old is alicia in 2009,D47,Alicia Keys,D47-1,key released debut album j record previous record deal first columbia arista record,0
+Q47,how old is alicia in 2009,D47,Alicia Keys,D47-2,key debut album song minor commercial success selling 12 million copy worldwide,0
+Q47,how old is alicia in 2009,D47,Alicia Keys,D47-3,became best-selling new artist best-selling r b artist 2001,0
+Q47,how old is alicia in 2009,D47,Alicia Keys,D47-4,album earned key five grammy award 2002 including best new artist song year `` fallin `` becoming second american recording artist win five grammys one night,0
+Q47,how old is alicia in 2009,D47,Alicia Keys,D47-5,second studio album diary alicia key released 2003 also another success worldwide selling eight million copy,0
+Q47,how old is alicia in 2009,D47,Alicia Keys,D47-6,album garnered additional four grammy award 2005,0
+Q47,how old is alicia in 2009,D47,Alicia Keys,D47-7,later year released first live album unplugged debuted number one united state,0
+Q47,how old is alicia in 2009,D47,Alicia Keys,D47-8,became first female mtv unplugged album debut number one highest since nirvana 1994,0
+Q47,how old is alicia in 2009,D47,Alicia Keys,D47-9,key made guest appearance several television series following year beginning charmed,0
+Q47,how old is alicia in 2009,D47,Alicia Keys,D47-10,made film debut smokin ace included ben affleck andy garcia chris pine ryan reynolds taraji p. henson jeremy piven also went appear nanny diary starred scarlett johansson laura linney paul giamitti chris evan 2007,0
+Q47,how old is alicia in 2009,D47,Alicia Keys,D47-11,third studio album released year sold five million copy worldwide earning key additional three grammy award,0
+Q47,how old is alicia in 2009,D47,Alicia Keys,D47-12,following year appeared secret life bee eva longoria jennifer hudson paul bettany dakota fanning queen latifah earned nomination naacp image award,0
+Q47,how old is alicia in 2009,D47,Alicia Keys,D47-13,released fourth album element freedom december 2009 became key first chart-topping album united kingdom,0
+Q47,how old is alicia in 2009,D47,Alicia Keys,D47-14,released fifth album girl fire november 2012 became key fifth chart-topping album united state,0
+Q47,how old is alicia in 2009,D47,Alicia Keys,D47-15,throughout career key numerous award sold 35 million album 30 million single worldwide,0
+Q47,how old is alicia in 2009,D47,Alicia Keys,D47-16,billboard magazine named top r b song artist 2000s decade,0
+Q47,how old is alicia in 2009,D47,Alicia Keys,D47-17,2010 vh1 included key list 100 greatest artist time,0
+Q47,how old is alicia in 2009,D47,Alicia Keys,D47-18,billboard magazine placed number ten list top 50 r b/hip-hop artist past 25 year,0
+Q47,how old is alicia in 2009,D47,Alicia Keys,D47-19,blackberry formerly rim named global creative director blackberry 10 experience event new york city january 30 2013,0
+Q47,how old is alicia in 2009,D47,Alicia Keys,D47-20,key opened super bowl xlvii new orleans louisiana february 3 2013 singing you.s national anthem,0
+Q47,how old is alicia in 2009,D47,Alicia Keys,D47-21,55th annual grammy award key performed maroon 5 singing duet song daylight girl fire,0
+Q48,how long was i love lucy on the air,D48,I Love Lucy,D48-0,love lucy american television sitcom starring lucille ball desi arnaz vivian vance william frawley,0
+Q48,how long was i love lucy on the air,D48,I Love Lucy,D48-1,black-and-white series originally ran october 15 1951 may 6 1957 columbia broadcasting system cbs,1
+Q48,how long was i love lucy on the air,D48,I Love Lucy,D48-2,series ended 1957 however modified version continued three season 13 one-hour special running 1957 1960 known first lucille ball-desi arnaz show later rerun lucy-desi comedy hour,0
+Q48,how long was i love lucy on the air,D48,I Love Lucy,D48-3,love lucy watched show united state four six season first end run top nielsen rating accomplishment later matched andy griffith show seinfeld,0
+Q48,how long was i love lucy on the air,D48,I Love Lucy,D48-4,love lucy still syndicated dozen language across world,0
+Q48,how long was i love lucy on the air,D48,I Love Lucy,D48-5,show first scripted television program shot 35 mm film front studio audience five emmy award received numerous nomination,0
+Q48,how long was i love lucy on the air,D48,I Love Lucy,D48-6,2002 ranked second tv guide 's list television 's greatest show behind seinfeld ahead honeymooner,0
+Q48,how long was i love lucy on the air,D48,I Love Lucy,D48-7,2007 listed one time magazine 's `` 100 best tv show all-time ``,0
+Q48,how long was i love lucy on the air,D48,I Love Lucy,D48-8,love lucy remains popular american audience 40 million year,0
+Q49,how big is a land section generally,D49,Section (United States land surveying),D49-0,sectioning township,0
+Q49,how big is a land section generally,D49,Section (United States land surveying),D49-1,perfectly square full section farmland cover central indiana,0
+Q49,how big is a land section generally,D49,Section (United States land surveying),D49-2,satellite image crop growing kansa mainly using center pivot irrigation,0
+Q49,how big is a land section generally,D49,Section (United States land surveying),D49-3,primary grid pattern quarter section 0.5 mi x 0.5 mi,0
+Q49,how big is a land section generally,D49,Section (United States land surveying),D49-4,you.s land surveying public land survey system plss section area nominally one square mile containing 36 section making one survey township rectangular grid,0
+Q49,how big is a land section generally,D49,Section (United States land surveying),D49-5,legal description tract land plss includes name state name county township number range number section number portion section,0
+Q49,how big is a land section generally,D49,Section (United States land surveying),D49-6,section customarily surveyed smaller square repeated halving quartering,0
+Q49,how big is a land section generally,D49,Section (United States land surveying),D49-7,quarter section 160 acre `` quarter-quarter section ``,0
+Q49,how big is a land section generally,D49,Section (United States land surveying),D49-8,1832 smallest area land could acquired reduced 40 acre quarter-quarter section size parcel became entrenched american mythology,0
+Q49,how big is a land section generally,D49,Section (United States land surveying),D49-9,civil war freedman freed slave reckoned self-sufficient `` 40 acre mule ``,0
+Q49,how big is a land section generally,D49,Section (United States land surveying),D49-10,20th century real estate developer preferred working 40 acre parcel,0
+Q49,how big is a land section generally,D49,Section (United States land surveying),D49-11,phrase `` front 40 `` `` back 40 `` referring farm field indicate quarter-quarter section land,0
+Q49,how big is a land section generally,D49,Section (United States land surveying),D49-12,one reason creating section 640 acre ease dividing half quarter still maintaining whole number acre,0
+Q49,how big is a land section generally,D49,Section (United States land surveying),D49-13,section halved seven time way parcel half quarter-quarter-quarter section -- an easily surveyed 50 square chain area,0
+Q49,how big is a land section generally,D49,Section (United States land surveying),D49-14,system great practical value american frontier surveyor often shaky grasp mathematics required work quickly,0
+Q49,how big is a land section generally,D49,Section (United States land surveying),D49-15,description quarter-quarter section standard abbreviated form might look like `` nw 1/4 ne 1/4 sec 34 t.3s r.1w 1st p.m. ``,0
+Q49,how big is a land section generally,D49,Section (United States land surveying),D49-16,expanded form would read `` northwest quarter northeast quarter section 34 township 3 south range 1 west first principal meridian ``,0
+Q50,how long was richard nixon a president,D50,Richard Nixon,D50-0,richard milhous nixon january 9 1913 - april 22 1994 37th president united state serving 1969 1974 became president resign office,1
+Q50,how long was richard nixon a president,D50,Richard Nixon,D50-1,nixon previously served republican you.s representative senator california 36th vice president united state 1953 1961,0
+Q50,how long was richard nixon a president,D50,Richard Nixon,D50-2,nixon born yorba linda california,0
+Q50,how long was richard nixon a president,D50,Richard Nixon,D50-3,graduated whittier college 1934 duke university school law 1937 returning california practice law,0
+Q50,how long was richard nixon a president,D50,Richard Nixon,D50-4,wife pat nixon moved washington work federal government 1942,0
+Q50,how long was richard nixon a president,D50,Richard Nixon,D50-5,subsequently served united state navy world war ii,0
+Q50,how long was richard nixon a president,D50,Richard Nixon,D50-6,nixon elected california house representative 1946 senate 1950,0
+Q50,how long was richard nixon a president,D50,Richard Nixon,D50-7,pursuit alger hiss case established reputation leading anti-communist elevated national prominence,0
+Q50,how long was richard nixon a president,D50,Richard Nixon,D50-8,running mate dwight d. eisenhower republican party presidential nominee 1952 election,0
+Q50,how long was richard nixon a president,D50,Richard Nixon,D50-9,nixon served eight year vice president,0
+Q50,how long was richard nixon a president,D50,Richard Nixon,D50-10,waged unsuccessful presidential campaign 1960 narrowly losing john f. kennedy lost race governor california 1962,0
+Q50,how long was richard nixon a president,D50,Richard Nixon,D50-11,1968 ran presidency elected,0
+Q50,how long was richard nixon a president,D50,Richard Nixon,D50-12,although nixon initially escalated america 's involvement vietnam war subsequently ended you.s involvement 1973,0
+Q50,how long was richard nixon a president,D50,Richard Nixon,D50-13,nixon 's visit people 's republic china 1972 opened diplomatic relation two nation initiated detente anti-ballistic missile treaty soviet union year,0
+Q50,how long was richard nixon a president,D50,Richard Nixon,D50-14,domestically administration generally embraced policy transferred power washington state,0
+Q50,how long was richard nixon a president,D50,Richard Nixon,D50-15,among thing launched initiative fight cancer illegal drug imposed wage price control enforced desegregation southern school established environmental protection agency,0
+Q50,how long was richard nixon a president,D50,Richard Nixon,D50-16,though presided lunar landing beginning apollo 11 scaled back manned space exploration,0
+Q50,how long was richard nixon a president,D50,Richard Nixon,D50-17,re-elected landslide 1972,0
+Q50,how long was richard nixon a president,D50,Richard Nixon,D50-18,nixon 's second term saw arab oil embargo resignation vice president spiro agnew continuing series revelation watergate scandal misconduct member administration,0
+Q50,how long was richard nixon a president,D50,Richard Nixon,D50-19,scandal escalated costing nixon much political support august 9 1974 resigned face almost certain impeachment removal office,0
+Q50,how long was richard nixon a president,D50,Richard Nixon,D50-20,resignation controversially received pardon issued successor gerald ford,0
+Q50,how long was richard nixon a president,D50,Richard Nixon,D50-21,retirement nixon 's work elder statesman authoring several book undertaking many foreign trip helped rehabilitate public image,0
+Q50,how long was richard nixon a president,D50,Richard Nixon,D50-22,suffered debilitating stroke april 18 1994 died four day later age 81,0
+Q51,how did bleeding sumner lead to the civil war,D51,Charles Sumner,D51-0,infobox senator,0
+Q51,how did bleeding sumner lead to the civil war,D51,Charles Sumner,D51-1,dominican republic annexation treaty caused bitter contention president grant sen. sumner,0
+Q51,how did bleeding sumner lead to the civil war,D51,Charles Sumner,D51-2,brady 1869,0
+Q51,how did bleeding sumner lead to the civil war,D51,Charles Sumner,D51-3,sen. sumner opposed american imperialism caribbean fearful annexation would lead conquest neighboring black republic haiti became convinced corruption lay behind treaty men close president shared corruption,0
+Q51,how did bleeding sumner lead to the civil war,D51,Charles Sumner,D51-4,chairman senate foreign relation committee sen. sumner initially withheld opinion treaty january 18 1870,0
+Q51,how did bleeding sumner lead to the civil war,D51,Charles Sumner,D51-5,sen. sumner leaked information assistant secretary state bancroft davis you.s naval ship used protect president baez,0
+Q51,how did bleeding sumner lead to the civil war,D51,Charles Sumner,D51-6,sen. sumner 's committee voted annexation sen. sumner ' suggestion quite possibly save party ugly fight president embarrassment senate held debate treaty behind closed door executive session,0
+Q51,how did bleeding sumner lead to the civil war,D51,Charles Sumner,D51-7,president grant persisted sent message congress favor annexation march 14 1870 may 31 1870,0
+Q51,how did bleeding sumner lead to the civil war,D51,Charles Sumner,D51-8,closed session sen. sumner spoke treaty warnng would difficulty foreign national noting chronic rebellion took place island risk independence haiti recognized united state 1862 would lost,0
+Q51,how did bleeding sumner lead to the civil war,D51,Charles Sumner,D51-9,sumner stated grant 's use you.s navy protectorate violation international law unconstitutional,0
+Q51,how did bleeding sumner lead to the civil war,D51,Charles Sumner,D51-10,finally june 30 1870 treaty voted senate failed gain required 2/3 majority treaty passage,0
+Q51,how did bleeding sumner lead to the civil war,D51,Charles Sumner,D51-11,following day president grant feeling betrayed sen. sumner retaliated ordering dismissal sumner ' close friend j. lothrop motley ambassador britain,0
+Q51,how did bleeding sumner lead to the civil war,D51,Charles Sumner,D51-12,autumn sumner 's personal hostility president public knowledge blamed secretary state failing resigned rather let grant way,0
+Q51,how did bleeding sumner lead to the civil war,D51,Charles Sumner,D51-13,two men friend cooled bitter enemy,0
+Q51,how did bleeding sumner lead to the civil war,D51,Charles Sumner,D51-14,december 1870 still fearful grant meant acquire santo domingo somehow sumner gave fiercely critical speech accusing president usurpation babcock unethical conduct,0
+Q51,how did bleeding sumner lead to the civil war,D51,Charles Sumner,D51-15,already president grant supported secretary state hamilton fish initiated campaign depose sumner chairmanship senate foreign relation committee,0
+Q51,how did bleeding sumner lead to the civil war,D51,Charles Sumner,D51-16,although sumner stated `` administration man `` addition stopped grant 's dominican republic treaty attempt sumner defeated grant 's full repeal tenure office act blocked grant 's nomination alexander stewart you.s secretary treasury constant harassing force pushing reconstruction policy faster grant willing go,0
+Q51,how did bleeding sumner lead to the civil war,D51,Charles Sumner,D51-17,grant resented sumner 's superiority manner well,0
+Q51,how did bleeding sumner lead to the civil war,D51,Charles Sumner,D51-18,told sumner believe bible president supposed said surprised `` write ``,0
+Q51,how did bleeding sumner lead to the civil war,D51,Charles Sumner,D51-19,rift grant sumner increased sumner ' health began decline,0
+Q51,how did bleeding sumner lead to the civil war,D51,Charles Sumner,D51-20,42nd you.s congress convened march 4 1871 senator affiliated president grant known ' ' new radical ' ' voted oust sen. sumner senate foreign relation committee chairmanship,0
+Q52,how are business ethics different in Africa and United States,D52,Business ethics,D52-0,business ethic also corporate ethic form applied ethic professional ethic examines ethical principle moral ethical problem arise business environment,0
+Q52,how are business ethics different in Africa and United States,D52,Business ethics,D52-1,applies aspect business conduct relevant conduct individual entire organization,0
+Q52,how are business ethics different in Africa and United States,D52,Business ethics,D52-2,business ethic normative descriptive dimension,0
+Q52,how are business ethics different in Africa and United States,D52,Business ethics,D52-3,corporate practice career specialization field primarily normative,0
+Q52,how are business ethics different in Africa and United States,D52,Business ethics,D52-4,academic attempting understand business behavior employ descriptive method,0
+Q52,how are business ethics different in Africa and United States,D52,Business ethics,D52-5,range quantity business ethical issue reflects interaction profit-maximizing behavior non-economic concern,0
+Q52,how are business ethics different in Africa and United States,D52,Business ethics,D52-6,interest business ethic accelerated dramatically 1980s 1990s within major corporation within academia,0
+Q52,how are business ethics different in Africa and United States,D52,Business ethics,D52-7,example today major corporation promote commitment non-economic value heading ethic code social responsibility charter,0
+Q52,how are business ethics different in Africa and United States,D52,Business ethics,D52-8,adam smith said `` people trade seldom meet together even merriment diversion conversation end conspiracy public contrivance raise price ``,0
+Q52,how are business ethics different in Africa and United States,D52,Business ethics,D52-9,government use law regulation point business behavior perceive beneficial direction,0
+Q52,how are business ethics different in Africa and United States,D52,Business ethics,D52-10,ethic implicitly regulates area detail behavior lie beyond governmental control,0
+Q52,how are business ethics different in Africa and United States,D52,Business ethics,D52-11,emergence large corporation limited relationship sensitivity community operate accelerated development formal ethic regime,0
+Q53,how bad burns go to burn center,D53,Burn,D53-0,burn type injury flesh skin caused heat electricity chemical friction radiation,0
+Q53,how bad burns go to burn center,D53,Burn,D53-1,burn affect superficial skin known superficial first degree extend deeper skin involve full thickness skin known partial thickness second degree,0
+Q53,how bad burns go to burn center,D53,Burn,D53-2,rarely layer skin deeper tissue muscle bone injured case burn either full thickness third degree fourth degree,0
+Q53,how bad burns go to burn center,D53,Burn,D53-3,treatment required depends severity burn,0
+Q53,how bad burns go to burn center,D53,Burn,D53-4,superficial burn maybe managed little simple pain killer major burn may require prolonged treatment specialized burn center,0
+Q53,how bad burns go to burn center,D53,Burn,D53-5,cooling tap water may aid pain decrease damage however exposure prolonged may result low body temperature,0
+Q53,how bad burns go to burn center,D53,Burn,D53-6,partial thickness burn may require cleaning soap water followed dressing,0
+Q53,how bad burns go to burn center,D53,Burn,D53-7,blister typically left unbroken,0
+Q53,how bad burns go to burn center,D53,Burn,D53-8,full thickness burn usually require surgical treatment skin grafting extensive burn often require large amount intravenous fluid,0
+Q53,how bad burns go to burn center,D53,Burn,D53-9,common complication burn related infection,0
+Q53,how bad burns go to burn center,D53,Burn,D53-10,large burn fatal modern treatment developed last 50 year significantly improved outcome especially child young adult,0
+Q53,how bad burns go to burn center,D53,Burn,D53-11,"globally 11 million people seek medical treatment 300,000 people die burn",0
+Q53,how bad burns go to burn center,D53,Burn,D53-12,united state admitted burn center approximately 4 die injury,0
+Q53,how bad burns go to burn center,D53,Burn,D53-13,long term outcome primarily related size burn age person effected,0
+Q54,how old was shakespeare's juliet,D54,Juliet,D54-0,juliet one title character william shakespeare 's romantic love tragedy romeo juliet romeo,0
+Q54,how old was shakespeare's juliet,D54,Juliet,D54-1,serf play 's female protagonist,0
+Q54,how old was shakespeare's juliet,D54,Juliet,D54-2,juliet daughter capulet patriarch capulet family,0
+Q54,how old was shakespeare's juliet,D54,Juliet,D54-3,story long history precedes shakespeare,0
+Q55,how deep is the atlantic ocean,D55,Atlantic Ocean,D55-0,atlantic ocean including arctic antarctic region,0
+Q55,how deep is the atlantic ocean,D55,Atlantic Ocean,D55-1,video taken crew expedition 29 board i,0
+Q55,how deep is the atlantic ocean,D55,Atlantic Ocean,D55-2,pas start north-east island newfoundland north atlantic ocean central africa south sudan,0
+Q55,how deep is the atlantic ocean,D55,Atlantic Ocean,D55-3,atlantic ocean second-largest world 's oceanic division,0
+Q55,how deep is the atlantic ocean,D55,Atlantic Ocean,D55-4,total area cover approximately 20 percent earth 's surface 29 percent water surface area,0
+Q55,how deep is the atlantic ocean,D55,Atlantic Ocean,D55-5,first part name refers atlas greek mythology making atlantic `` sea atlas ``,0
+Q55,how deep is the atlantic ocean,D55,Atlantic Ocean,D55-6,oldest known mention `` atlantic `` history herodotus around 450 hdt 1.202.4 atlantis thalassa greek atlantis thalassa english sea atlas,0
+Q55,how deep is the atlantic ocean,D55,Atlantic Ocean,D55-7,term ethiopic ocean derived ethiopia applied southern atlantic late mid-19th century,0
+Q55,how deep is the atlantic ocean,D55,Atlantic Ocean,D55-8,european discovered ocean term `` ocean `` synonymous water beyond strait gibraltar know atlantic,0
+Q55,how deep is the atlantic ocean,D55,Atlantic Ocean,D55-9,early greek believed ocean gigantic river encircling world,0
+Q55,how deep is the atlantic ocean,D55,Atlantic Ocean,D55-10,atlantic ocean occupies elongated s-shaped basin extending longitudinally eurasia africa east america west,0
+Q55,how deep is the atlantic ocean,D55,Atlantic Ocean,D55-11,one component interconnected global ocean connected north arctic ocean sometimes considered sea atlantic pacific ocean southwest indian ocean southeast southern ocean south,0
+Q55,how deep is the atlantic ocean,D55,Atlantic Ocean,D55-12,definition describe atlantic extending southward antarctica,0
+Q55,how deep is the atlantic ocean,D55,Atlantic Ocean,D55-13,equator subdivides north atlantic ocean south atlantic ocean,0
+Q56,how are storm names determined?,D56,Lists of tropical cyclone names,D56-0,due long-term persistence need unique identifier issuing forecast warning tropical cyclone subtropical cyclone given name according policy see tropical cyclone naming,0
+Q56,how are storm names determined?,D56,Lists of tropical cyclone names,D56-1,following list tropical subtropical cyclone name derived,0
+Q57,how are fire bricks made,D57,Fire brick,D57-0,refractory brick torpedo car used hauling molten iron,0
+Q57,how are fire bricks made,D57,Fire brick,D57-1,fire brick firebrick refractory brick block refractory ceramic material used lining furnace kiln firebox fireplace,0
+Q57,how are fire bricks made,D57,Fire brick,D57-2,refractory brick built primarily withstand high temperature also usually low thermal conductivity greater energy efficiency,0
+Q57,how are fire bricks made,D57,Fire brick,D57-3,usually dense firebrick used application extreme mechanical chemical thermal stress inside wood-fired kiln furnace subject abrasion wood fluxing ash slag high temperature,0
+Q57,how are fire bricks made,D57,Fire brick,D57-4,le harsh situation electric natural gas fired kiln porous brick commonly known `` kiln brick `` better choice,0
+Q57,how are fire bricks made,D57,Fire brick,D57-5,weaker much lighter easier form insulate far better dense brick,0
+Q57,how are fire bricks made,D57,Fire brick,D57-6,case firebrick spall rapid temperature change strength hold well rapid temperature change,0
+Q58,how big or small a visible light can get,D58,Visible spectrum,D58-0,white light dispersed prism color optical spectrum,0
+Q58,how big or small a visible light can get,D58,Visible spectrum,D58-1,visible spectrum portion electromagnetic spectrum visible detected human eye,0
+Q58,how big or small a visible light can get,D58,Visible spectrum,D58-2,electromagnetic radiation range wavelength called visible light simply light,0
+Q58,how big or small a visible light can get,D58,Visible spectrum,D58-3,typical human eye respond wavelength 390 700 nm,0
+Q58,how big or small a visible light can get,D58,Visible spectrum,D58-4,term frequency corresponds band vicinity 430-790 thz,0
+Q58,how big or small a visible light can get,D58,Visible spectrum,D58-5,light-adapted eye generally maximum sensitivity around 555 nm 540 thz green region optical spectrum see luminosity function,0
+Q58,how big or small a visible light can get,D58,Visible spectrum,D58-6,spectrum however contain color human eye brain distinguish,0
+Q58,how big or small a visible light can get,D58,Visible spectrum,D58-7,unsaturated color pink purple variation magenta absent example made mix multiple wavelength,0
+Q58,how big or small a visible light can get,D58,Visible spectrum,D58-8,color containing one wavelength also called pure color,0
+Q58,how big or small a visible light can get,D58,Visible spectrum,D58-9,visible wavelength pas `` optical window `` region electromagnetic spectrum allows wavelength pas largely unattenuated earth 's atmosphere,0
+Q58,how big or small a visible light can get,D58,Visible spectrum,D58-10,example phenomenon clean air scatter blue light red wavelength midday sky appears blue,0
+Q58,how big or small a visible light can get,D58,Visible spectrum,D58-11,optical window also called visible window overlap human visible response spectrum,0
+Q58,how big or small a visible light can get,D58,Visible spectrum,D58-12,near infrared nir window lie human vision well medium wavelength ir mwir window long wavelength far infrared lwir fir window though animal may experience,0
+Q58,how big or small a visible light can get,D58,Visible spectrum,D58-13,many specie see light frequency outside `` visible spectrum `` defined term human vision,0
+Q58,how big or small a visible light can get,D58,Visible spectrum,D58-14,bee many insect detect ultraviolet light help find nectar flower,0
+Q58,how big or small a visible light can get,D58,Visible spectrum,D58-15,plant specie depend insect pollination may owe reproductive success appearance ultraviolet light rather colorful appear human,0
+Q58,how big or small a visible light can get,D58,Visible spectrum,D58-16,bird see ultraviolet 300-400 nm sex-dependent marking plumage visible ultraviolet range,0
+Q58,how big or small a visible light can get,D58,Visible spectrum,D58-17,many animal see ultraviolet range however see red light reddish wavelength,0
+Q58,how big or small a visible light can get,D58,Visible spectrum,D58-18,bee visible spectrum end 590nm orange wavelength start,0
+Q58,how big or small a visible light can get,D58,Visible spectrum,D58-19,bird however see red wavelength many human,0
+Q59,HOW MUCH IS CENTAVOS IN MEXICO,D59,Mexican peso,D59-0,peso sign code mxn currency mexico,0
+Q59,HOW MUCH IS CENTAVOS IN MEXICO,D59,Mexican peso,D59-1,modern peso dollar currency common origin 15th-19th century spanish dollar continuing use sign `` ``,0
+Q59,HOW MUCH IS CENTAVOS IN MEXICO,D59,Mexican peso,D59-2,mexican peso 13th traded currency world third traded america traded currency latin america,0
+Q59,HOW MUCH IS CENTAVOS IN MEXICO,D59,Mexican peso,D59-3,current iso 4217 code peso mxn prior 1993 revaluation see code mxp used,0
+Q59,HOW MUCH IS CENTAVOS IN MEXICO,D59,Mexican peso,D59-4,peso subdivided 100 centavo represented `` C/ ``,1
+Q59,HOW MUCH IS CENTAVOS IN MEXICO,D59,Mexican peso,D59-5,name originally used reference peso oro gold weight peso plata silver weight,0
+Q59,HOW MUCH IS CENTAVOS IN MEXICO,D59,Mexican peso,D59-6,literal english translation spanish word peso weight,0
+Q59,HOW MUCH IS CENTAVOS IN MEXICO,D59,Mexican peso,D59-7,january 4 2013 peso 's exchange rate 16.5914 per euro 12.7597 per you.s dollar url_http,0
+Q60,how big are baby zebras when born,D60,Zebra,D60-0,zebra several specie african equid horse family united distinctive black white stripe,0
+Q60,how big are baby zebras when born,D60,Zebra,D60-1,stripe come different pattern unique individual,0
+Q60,how big are baby zebras when born,D60,Zebra,D60-2,generally social animal live small harem large herd,0
+Q60,how big are baby zebras when born,D60,Zebra,D60-3,unlike closest relative horse ass zebra never truly domesticated,0
+Q60,how big are baby zebras when born,D60,Zebra,D60-4,three specie zebra plain zebra grevy 's zebra mountain zebra,0
+Q60,how big are baby zebras when born,D60,Zebra,D60-5,plain zebra mountain zebra belong subgenus hippotigris grevy 's zebra sole specie subgenus dolichohippus,0
+Q60,how big are baby zebras when born,D60,Zebra,D60-6,latter resembles as closely related former two horse-like,0
+Q60,how big are baby zebras when born,D60,Zebra,D60-7,three belong genus equus along living equid,0
+Q60,how big are baby zebras when born,D60,Zebra,D60-8,unique stripe zebra make one animal familiar people,0
+Q60,how big are baby zebras when born,D60,Zebra,D60-9,occur variety habitat grassland savanna woodland thorny scrubland mountain coastal hill,0
+Q60,how big are baby zebras when born,D60,Zebra,D60-10,however various anthropogenic factor severe impact zebra population particular hunting skin habitat destruction,0
+Q60,how big are baby zebras when born,D60,Zebra,D60-11,grevy 's zebra mountain zebra endangered,0
+Q60,how big are baby zebras when born,D60,Zebra,D60-12,plain zebra much plentiful one subspecies quagga became extinct late 19th century - though currently plan called quagga project aim breed zebra phenotypically similar quagga process called breeding back,0
+Q61,How did Barry White die?,D61,Barry White,D61-0,barry white born barry eugene carter - american composer singer-songwriter,0
+Q61,How did Barry White die?,D61,Barry White,D61-1,two-time grammy award -winner known distinctive bass voice romantic image white 's greatest success came 1970s solo singer love unlimited orchestra crafting many enduring soul funk disco song two biggest hit `` first last everything `` `` get enough love babe ``,0
+Q61,How did Barry White die?,D61,Barry White,D61-2,along isaac hayes white considered allmusic.com pioneer disco music early 1970s,0
+Q61,How did Barry White die?,D61,Barry White,D61-3,course career music business white achieved 106 gold album worldwide 41 also attained platinum status,0
+Q61,How did Barry White die?,D61,Barry White,D61-4,white 20 gold 10 platinum single worldwide sale excess 100 million according critic ed hogan wade kergan,0
+Q61,How did Barry White die?,D61,Barry White,D61-5,influence included rev james cleveland ray charles aretha franklin plus motown artist supremes four top marvin gaye,0
+Q62,how did angelina jolie get her name?,D62,Angelina Jolie,D62-0,angelina jolie born angelina jolie voight june 4 1975 american actress film director screenwriter,0
+Q62,how did angelina jolie get her name?,D62,Angelina Jolie,D62-1,received academy award two screen actor guild award three golden globe award named hollywood 's highest-paid actress forbes 2009 2011,0
+Q62,how did angelina jolie get her name?,D62,Angelina Jolie,D62-2,jolie promotes humanitarian cause noted work refugee special envoy former goodwill ambassador united nation high commissioner refugee unhcr,0
+Q62,how did angelina jolie get her name?,D62,Angelina Jolie,D62-3,often cited world 's `` beautiful `` woman title received substantial medium attention,0
+Q62,how did angelina jolie get her name?,D62,Angelina Jolie,D62-4,jolie made screen debut child alongside father jon voight lookin get 1982 film career began earnest decade later low-budget production cyborg 2 1993,0
+Q62,how did angelina jolie get her name?,D62,Angelina Jolie,D62-5,first leading role major film cyber-thriller hacker 1995,0
+Q62,how did angelina jolie get her name?,D62,Angelina Jolie,D62-6,starred critically acclaimed biographical television film george wallace 1997 gia 1998 academy award best supporting actress performance drama girl interrupted 1999,0
+Q62,how did angelina jolie get her name?,D62,Angelina Jolie,D62-7,jolie achieved wide fame portrayal video game heroine lara croft lara croft tomb raider 2001 established among highest-paid actress hollywood sequel cradle life 2003,0
+Q62,how did angelina jolie get her name?,D62,Angelina Jolie,D62-8,continued action star career mr. mrs. smith 2005 wanted 2008 -- her biggest non-animated commercial success date -- and received critical acclaim performance drama mighty heart 2007 changeling 2008 earned nomination academy award best actress,0
+Q62,how did angelina jolie get her name?,D62,Angelina Jolie,D62-9,jolie made directorial debut wartime drama land blood honey 2011,0
+Q62,how did angelina jolie get her name?,D62,Angelina Jolie,D62-10,divorced actor jonny lee miller billy bob thornton jolie life actor brad pitt relationship notable fervent medium attention,0
+Q62,how did angelina jolie get her name?,D62,Angelina Jolie,D62-11,jolie pitt three biological child three adopted child,0
+Q63,how can plant gases slow erosion,D63,erosion,D63-0,natural arch produced erosion differentially weathered rock jebel kharaz jordan,0
+Q63,how can plant gases slow erosion,D63,erosion,D63-1,erosion process soil rock removed earth 's surface exogenetic process wind water flow transported deposited location,0
+Q63,how can plant gases slow erosion,D63,erosion,D63-2,erosion natural process human activity increased 10-40 time rate erosion occurring globally,0
+Q63,how can plant gases slow erosion,D63,erosion,D63-3,excessive erosion cause problem desertification decrease agricultural productivity due land degradation sedimentation waterway ecological collapse due loss nutrient rich upper soil layer,0
+Q63,how can plant gases slow erosion,D63,erosion,D63-4,water wind erosion two primary cause land degradation combined responsible 84 degraded acreage making excessive erosion one significant global environmental problem,0
+Q63,how can plant gases slow erosion,D63,erosion,D63-5,industrial agriculture deforestation road anthropogenic climate change urban sprawl amongst significant human activity regard effect stimulating erosion,0
+Q63,how can plant gases slow erosion,D63,erosion,D63-6,however many available alternative land use practice curtail limit erosion terrace -building no-till agriculture revegetation denuded soil,0
+Q64,How long was Mickie James with WWE?,D64,Mickie James,D64-0,mickie laree james born august 31 1979 american professional wrestler singer currently signed total nonstop action wrestling tna former two-time tna woman 's knockout champion,0
+Q64,How long was Mickie James with WWE?,D64,Mickie James,D64-1,james began professional wrestling career 1999 valet independent circuit known name alexis laree,0
+Q64,How long was Mickie James with WWE?,D64,Mickie James,D64-2,trained several camp improve wrestling ability working total nonstop action wrestling june 2002 gained national attention,0
+Q64,How long was Mickie James with WWE?,D64,Mickie James,D64-3,appearance joined stable called gathering written storyline group,0
+Q64,How long was Mickie James with WWE?,D64,Mickie James,D64-4,also woman involved clockwork orange house fun match,0
+Q64,How long was Mickie James with WWE?,D64,Mickie James,D64-5,james appeared world wrestling entertainment wwe october 2005 placed storyline trish stratus james gimmick stratus biggest fan turned obsessed stalker angle lasted almost year,1
+Q64,How long was Mickie James with WWE?,D64,Mickie James,D64-6,received push first wwe woman 's championship wrestlemania 22 title held total five time,0
+Q64,How long was Mickie James with WWE?,D64,Mickie James,D64-7,james also first diva championship night champion 2009 become second diva hold woman 's diva title,0
+Q64,How long was Mickie James with WWE?,D64,Mickie James,D64-8,released company april 22 2010 returned total nonstop action wrestling,0
+Q64,How long was Mickie James with WWE?,D64,Mickie James,D64-9,wwe tna james eight-time champion also person hold wwe woman 's wwe diva tna knockout championship wrestling history,0
+Q65,how long was angelina on the jersey shore?,D65,Jersey Shore (TV series),D65-0,jersey shore american reality television series ran mtv december 3 2009 december 20 2012 united state,0
+Q65,how long was angelina on the jersey shore?,D65,Jersey Shore (TV series),D65-1,series follows life eight housemate spending summer jersey shore you.s state new jersey,0
+Q65,how long was angelina on the jersey shore?,D65,Jersey Shore (TV series),D65-2,season 2 followed cast escaping cold northeast winter miami beach season 3 returning jersey shore,0
+Q65,how long was angelina on the jersey shore?,D65,Jersey Shore (TV series),D65-3,fourth season filmed italy premiered august 4 2011,0
+Q65,how long was angelina on the jersey shore?,D65,Jersey Shore (TV series),D65-4,show returned fifth season seaside height january 5 2012,0
+Q65,how long was angelina on the jersey shore?,D65,Jersey Shore (TV series),D65-5,fifth season finale aired march 15 2012,0
+Q65,how long was angelina on the jersey shore?,D65,Jersey Shore (TV series),D65-6,march 19 2012 mtv confirmed series would return sixth season,0
+Q65,how long was angelina on the jersey shore?,D65,Jersey Shore (TV series),D65-7,august 30 2012 mtv announced series end sixth season premiered october 4,0
+Q65,how long was angelina on the jersey shore?,D65,Jersey Shore (TV series),D65-8,series finale aired december 20 2012,0
+Q65,how long was angelina on the jersey shore?,D65,Jersey Shore (TV series),D65-9,show debuted amid large amount controversy regarding use word `` guido guidette `` portrayal italian-american stereotype scrutiny local cast member resident area,0
+Q65,how long was angelina on the jersey shore?,D65,Jersey Shore (TV series),D65-10,series garnered record rating mtv making network 's viewed series telecast ever,0
+Q65,how long was angelina on the jersey shore?,D65,Jersey Shore (TV series),D65-11,series cast also credited introducing unique lexicon phrase american popular culture,0
+Q65,how long was angelina on the jersey shore?,D65,Jersey Shore (TV series),D65-12,university chicago university oklahoma among educational institution class conference show,0
+Q65,how long was angelina on the jersey shore?,D65,Jersey Shore (TV series),D65-13,2010 cast jersey shore named barbara walter 10 fascinating people list series since exported dozen country worldwide,0
+Q65,how long was angelina on the jersey shore?,D65,Jersey Shore (TV series),D65-14,several remake show country two set united kingdom well known geordie shore set newcastle upon tyne england,0
+Q65,how long was angelina on the jersey shore?,D65,Jersey Shore (TV series),D65-15,valley welsh equivalent filmed set cardiff,0
+Q65,how long was angelina on the jersey shore?,D65,Jersey Shore (TV series),D65-16,official remake show gandia shore set gandia spain,0
+Q66,how did armando christian perez become famous,D66,Pitbull (entertainer),D66-0,armando perez born january 15 1981 better known stage name pitbull american rapper songwriter record producer,1
+Q66,how did armando christian perez become famous,D66,Pitbull (entertainer),D66-1,first recorded performance lil jon album king crunk 2002,0
+Q66,how did armando christian perez become famous,D66,Pitbull (entertainer),D66-2,2004 released debut album titled m.i.a.m.i short money major issue tvt record,0
+Q66,how did armando christian perez become famous,D66,Pitbull (entertainer),D66-3,since released three album label el mariel 2006 boatlift 2007 planet pit 2011,0
+Q66,how did armando christian perez become famous,D66,Pitbull (entertainer),D66-4,released rebelution 2009 included single `` know want calle ocho `` `` krazy ``,0
+Q66,how did armando christian perez become famous,D66,Pitbull (entertainer),D66-5,latter peaked 30 hot 100 11 hot rap track chart `` know want `` peaked 2 hot 100 peaked within top ten spot chart uk canada italy netherlands,0
+Q66,how did armando christian perez become famous,D66,Pitbull (entertainer),D66-6,song reached 1 france european hot 100 week ending august 29 2009 according billboard magazine,0
+Q66,how did armando christian perez become famous,D66,Pitbull (entertainer),D66-7,later signed polo ground music sony music created label mr. 305 inc,0
+Q66,how did armando christian perez become famous,D66,Pitbull (entertainer),D66-8,another single rebelution `` hotel room service `` peaked 8 hot 100,0
+Q66,how did armando christian perez become famous,D66,Pitbull (entertainer),D66-9,rebelution went sell 7.5 million worldwide digital single album combined,0
+Q66,how did armando christian perez become famous,D66,Pitbull (entertainer),D66-10,nevertheless dropped smash called `` give everything `` reached 1 worldwide featured artist ne-yo nayer afrojack,0
+Q66,how did armando christian perez become famous,D66,Pitbull (entertainer),D66-11,also performed featured artist remixes many hit song like tik tok scream shout lo hecho esta hecho bad papi diamond low tonight loving video phone bumpy ride,0
+Q66,how did armando christian perez become famous,D66,Pitbull (entertainer),D66-12,perez also host spanish-language program cable channel mun2 titled la esquina spanish corner,0
+Q66,how did armando christian perez become famous,D66,Pitbull (entertainer),D66-13,2005 perez rapper sean 'diddy comb co-founded bad boy latino subsidiary comb bad boy record label,0
+Q66,how did armando christian perez become famous,D66,Pitbull (entertainer),D66-14,primarily focus latin hip hop latin soul latin pop tropical music office new york miami florida,0
+Q66,how did armando christian perez become famous,D66,Pitbull (entertainer),D66-15,along co-founding perez currently head r division label,0
+Q66,how did armando christian perez become famous,D66,Pitbull (entertainer),D66-16,perez become product endorser representing alongside drake rihanna trey songz `` kodak `` campaign kodak brand embarking partnership soft drink giant dr pepper part campaign `` vida 23 `` recorded song specifically featured album armando,0
+Q66,how did armando christian perez become famous,D66,Pitbull (entertainer),D66-17,pitbull also announced become spokesperson voli vodka hold majority equity stake budweiser chosen pitbull promote bud light line beer,0
+Q66,how did armando christian perez become famous,D66,Pitbull (entertainer),D66-18,commercial currently highlight pitbull dancing gyrating stage holding bottle bud light,0
+Q66,how did armando christian perez become famous,D66,Pitbull (entertainer),D66-19,pitbull also purchased equity stake miami sub pizza grill,0
+Q67,how can a territory become a state,D67,United States territory,D67-0,right,0
+Q67,how can a territory become a state,D67,United States territory,D67-1,united state territory extent region jurisdiction federal government united state including water around island continental tract you.s naval vessel,0
+Q67,how can a territory become a state,D67,United States territory,D67-2,united state traditionally proclaimed sovereign right exploring exploiting conserving managing territory,0
+Q67,how can a territory become a state,D67,United States territory,D67-3,extent territory area belonging dominion united state federal government includes tract lying distance country administrative purpose,0
+Q67,how can a territory become a state,D67,United States territory,D67-4,united state total territory includes subset political division,0
+Q67,how can a territory become a state,D67,United States territory,D67-5,you.s government government delegated power united state constitution,0
+Q67,how can a territory become a state,D67,United States territory,D67-6,power delegated united state constitution prohibited state reserved state respectively people tenth amendment,0
+Q68,how can something taste good to one person,D68,Taste,D68-0,taste bud,0
+Q68,how can something taste good to one person,D68,Taste,D68-1,taste gustatory perception gustation one five traditional sens,0
+Q68,how can something taste good to one person,D68,Taste,D68-2,taste sensation produced substance mouth reacts chemically receptor taste bud,0
+Q68,how can something taste good to one person,D68,Taste,D68-3,taste along smell olfaction trigeminal nerve stimulation also handle touch texture also pain temperature determines flavor sensory impression food substance,0
+Q68,how can something taste good to one person,D68,Taste,D68-4,human perceive taste sensory organ called taste bud gustatory calyculi concentrated top tongue,0
+Q68,how can something taste good to one person,D68,Taste,D68-5,tongue covered thousand small bump called papilla easily visible naked eye,0
+Q68,how can something taste good to one person,D68,Taste,D68-6,within papilla hundred taste bud organ taste transduction,0
+Q68,how can something taste good to one person,D68,Taste,D68-7,2000 5000 taste bud located back front tongue,0
+Q68,how can something taste good to one person,D68,Taste,D68-8,others located roof side back mouth throat,0
+Q68,how can something taste good to one person,D68,Taste,D68-9,taste bud contains 50 100 taste receptor cell,0
+Q68,how can something taste good to one person,D68,Taste,D68-10,taste perception fade age average people lose half taste receptor time turn 20,0
+Q68,how can something taste good to one person,D68,Taste,D68-11,sensation taste categorized five basic taste sweetness sourness saltiness bitterness umami,0
+Q68,how can something taste good to one person,D68,Taste,D68-12,taste bud able differentiate different taste detecting interaction different molecule ion,0
+Q68,how can something taste good to one person,D68,Taste,D68-13,sweet umami bitter taste triggered binding molecule g protein-coupled receptor cell membrane taste bud,0
+Q68,how can something taste good to one person,D68,Taste,D68-14,saltiness sourness perceived alkali metal hydrogen ion enter taste bud respectively,0
+Q68,how can something taste good to one person,D68,Taste,D68-15,taste sens harmful beneficial thing basic taste classified either aversive appetitive depending upon effect thing sense body,0
+Q68,how can something taste good to one person,D68,Taste,D68-16,sweetness help identify energy-rich food bitterness serf warning sign poison,0
+Q68,how can something taste good to one person,D68,Taste,D68-17,basic taste contribute partially sensation flavor food mouth -- factor include smell detected olfactory epithelium nose texture detected variety mechanoreceptors muscle nerve etc temperature detected thermoreceptor `` coolness `` menthol `` hotness `` pungency chemesthesis,0
+Q69,How did Bob Marley die?,D69,Bob marley,D69-0,nesta robert `` bob `` marley om 6 february 1945 - 11 may 1981 jamaican singer-songwriter musician,0
+Q69,How did Bob Marley die?,D69,Bob marley,D69-1,rhythm guitarist lead singer ska rocksteady reggae band wailer 1963-1974 bob marley wailer 1974-1981,0
+Q69,How did Bob Marley die?,D69,Bob marley,D69-2,marley remains widely known best-selling performer reggae music sold 75 million album worldwide,0
+Q69,How did Bob Marley die?,D69,Bob marley,D69-3,also credited helping spread jamaican music rastafari movement worldwide audience,0
+Q69,How did Bob Marley die?,D69,Bob marley,D69-4,marley 's music heavily influenced social issue homeland considered given voice specific political cultural nexus jamaica,0
+Q69,How did Bob Marley die?,D69,Bob marley,D69-5,best-known hit include `` shot sheriff `` `` woman cry `` `` could loved `` `` duppy conqueror `` `` stir `` `` get stand `` `` jamming `` `` redemption song `` `` one love `` `` three little bird `` well posthumous release `` buffalo soldier `` `` iron lion zion ``,0
+Q69,How did Bob Marley die?,D69,Bob marley,D69-6,compilation album legend 1984 released three year death reggae 's best-selling album going ten time platinum also known one diamond you.s . selling 25 million copy worldwide,0
+Q70,how old was arnold in terminator 3,D70,Terminator 3: Rise of the Machines,D70-0,terminator 3 rise machine commonly abbreviated t3 2003 science fiction action film directed jonathan mostow starring arnold schwarzenegger nick stahl claire dane kristanna loken,0
+Q70,how old was arnold in terminator 3,D70,Terminator 3: Rise of the Machines,D70-1,second sequel terminator 1984,0
+Q70,how old was arnold in terminator 3,D70,Terminator 3: Rise of the Machines,D70-2,skynet fails kill sarah connor son born kill john child sends back another terminator t-x attempt wipe many resistance officer possible,0
+Q70,how old was arnold in terminator 3,D70,Terminator 3: Rise of the Machines,D70-3,includes john 's future wife john whereabouts unknown skynet,0
+Q70,how old was arnold in terminator 3,D70,Terminator 3: Rise of the Machines,D70-4,john 's life placed danger t-x accidentally find,0
+Q71,how old is youngest mother in the world,D71,List of youngest birth mothers,D71-0,list known biological mother 11 year age,0
+Q72,how much was the production of willy wonka and the chocolate factory,D72,Willy Wonka & the Chocolate Factory,D72-0,willy wonka chocolate factory 1971 musical film adaptation 1964 novel charlie chocolate factory roald dahl directed mel stuart starring gene wilder willy wonka,0
+Q72,how much was the production of willy wonka and the chocolate factory,D72,Willy Wonka & the Chocolate Factory,D72-1,film tell story charlie bucket peter ostrum film appearance receives golden ticket visit willy wonka 's chocolate factory four child around world,0
+Q72,how much was the production of willy wonka and the chocolate factory,D72,Willy Wonka & the Chocolate Factory,D72-2,filming took place munich 1970 film released june 30 1971,0
+Q72,how much was the production of willy wonka and the chocolate factory,D72,Willy Wonka & the Chocolate Factory,D72-3,received positive review box office disappointment,0
+Q72,how much was the production of willy wonka and the chocolate factory,D72,Willy Wonka & the Chocolate Factory,D72-4,however developed cult film due repeated television airing home video sale,0
+Q72,how much was the production of willy wonka and the chocolate factory,D72,Willy Wonka & the Chocolate Factory,D72-5,1972 film received academy award nomination best original score,0
+Q73,how much is a cord of wood,D73,Cord (unit),D73-0,cord wood,0
+Q73,how much is a cord of wood,D73,Cord (unit),D73-1,cord unit measure dry volume used canada united state measure firewood pulpwood,0
+Q73,how much is a cord of wood,D73,Cord (unit),D73-2,cord amount wood `` ranked well stowed `` arranged piece aligned parallel touching compact occupies volume,0
+Q73,how much is a cord of wood,D73,Cord (unit),D73-3,corresponds well stacked woodpile high long deep arrangement linear measurement yield volume,0
+Q73,how much is a cord of wood,D73,Cord (unit),D73-4,name cord probably come use cord string measure,0
+Q74,how much was game boy color when it came out,D74,Game Boy,D74-0,8-bit handheld video game device developed manufactured nintendo,0
+Q74,how much was game boy color when it came out,D74,Game Boy,D74-1,released japan north america europe,0
+Q74,how much was game boy color when it came out,D74,Game Boy,D74-2,first handheld console game boy line created gunpei yokoi nintendo research development 1 -- the staff designed game watch series well several popular game nintendo entertainment system,0
+Q74,how much was game boy color when it came out,D74,Game Boy,D74-3,redesigned version released 1996 1998 form game boy pocket game boy light japan respectively,0
+Q74,how much was game boy color when it came out,D74,Game Boy,D74-4,game boy nintendo 's second handheld system following game watch series introduced combined feature nintendo entertainment system game watch,0
+Q74,how much was game boy color when it came out,D74,Game Boy,D74-5,originally bundled puzzle game tetri,0
+Q74,how much was game boy color when it came out,D74,Game Boy,D74-6,part fourth generation gaming game boy competed sega game gear atari lynx turboexpress,0
+Q74,how much was game boy color when it came out,D74,Game Boy,D74-7,despite technologically superior handheld console game boy tremendous success,0
+Q74,how much was game boy color when it came out,D74,Game Boy,D74-8,game boy successor game boy color combined sold 118.69 million unit worldwide,0
+Q74,how much was game boy color when it came out,D74,Game Boy,D74-9,upon release united state sold entire shipment one million unit within week,0
+Q75,how old were the twin towers when destroyed,D75,World Trade Center,D75-0,world trade center complex building construction lower manhattan new york city united state replacing earlier complex seven building name site,0
+Q75,how old were the twin towers when destroyed,D75,World Trade Center,D75-1,original world trade center featured landmark twin tower opened april 4 1973 destroyed september 11 attack 2001 along 7 world trade center,1
+Q75,how old were the twin towers when destroyed,D75,World Trade Center,D75-2,building complex damaged attack ruin eventually demolished,0
+Q75,how old were the twin towers when destroyed,D75,World Trade Center,D75-3,site rebuilt five new skyscraper memorial killed attack,0
+Q75,how old were the twin towers when destroyed,D75,World Trade Center,D75-4,one skyscraper completed four expected completed 2020,0
+Q75,how old were the twin towers when destroyed,D75,World Trade Center,D75-5,one world trade center lead building new complex reaching 100 story completion,0
+Q75,how old were the twin towers when destroyed,D75,World Trade Center,D75-6,became tallest building new york city april 30 2012 expected finished 2013,0
+Q75,how old were the twin towers when destroyed,D75,World Trade Center,D75-7,sixth tower awaiting confirmation,0
+Q75,how old were the twin towers when destroyed,D75,World Trade Center,D75-8,time completion original 1 world trade center north tower 2 world trade center south tower known collectively `` twin tower `` tallest building world,0
+Q75,how old were the twin towers when destroyed,D75,World Trade Center,D75-9,building included 3 wtc marriott world trade center 4 wtc 5 wtc 6 wtc 7 wtc,0
+Q75,how old were the twin towers when destroyed,D75,World Trade Center,D75-10,building built 1975 1985,0
+Q75,how old were the twin towers when destroyed,D75,World Trade Center,D75-11,cost construction 400 million dollar,0
+Q75,how old were the twin towers when destroyed,D75,World Trade Center,D75-12,complex located heart new york city 's downtown financial district contained 13.4 million square foot 1.24 million m2 office space,0
+Q75,how old were the twin towers when destroyed,D75,World Trade Center,D75-13,world trade center experienced fire 1975 bombing 1993 robbery 1998,0
+Q75,how old were the twin towers when destroyed,D75,World Trade Center,D75-14,1998 port authority decided privatize world trade center leasing building private company manage awarded lease silverstein property,0
+Q75,how old were the twin towers when destroyed,D75,World Trade Center,D75-15,morning september 11 2001 al-qaeda -affiliated hijacker flew two boeing 767 jet complex one tower coordinated terrorist attack,0
+Q75,how old were the twin towers when destroyed,D75,World Trade Center,D75-16,"burning 56 minute south tower 2 collapsed followed half-hour later north tower 1 attack world trade center resulting 2,753 death",0
+Q75,how old were the twin towers when destroyed,D75,World Trade Center,D75-17,falling debris tower combined fire debris initiated several surrounding building led partial complete collapse building complex caused catastrophic damage ten large structure surrounding area,0
+Q75,how old were the twin towers when destroyed,D75,World Trade Center,D75-18,process cleanup recovery world trade center site took eight month,0
+Q75,how old were the twin towers when destroyed,D75,World Trade Center,D75-19,following year plan rebuilt world trade center took form,0
+Q75,how old were the twin towers when destroyed,D75,World Trade Center,D75-20,first new building site 7 world trade center opened,0
+Q75,how old were the twin towers when destroyed,D75,World Trade Center,D75-21,lower manhattan development corporation lmdc established oversee rebuilding process organized competition select site plan memorial design,0
+Q75,how old were the twin towers when destroyed,D75,World Trade Center,D75-22,memory foundation designed daniel libeskind selected master plan went substantial change design,0
+Q75,how old were the twin towers when destroyed,D75,World Trade Center,D75-23,new world trade center complex include one world trade center three high-rise office tower national september 11 memorial museum,0
+Q76,how are transverse ranges formed,D76,Transverse Ranges,D76-0,san gabriel mountain,0
+Q76,how are transverse ranges formed,D76,Transverse Ranges,D76-1,san bernardino mountain mt san gorgonio foreground big bear lake background,0
+Q76,how are transverse ranges formed,D76,Transverse Ranges,D76-2,transverse range group mountain range southern california pacific coast range physiographic region north america,0
+Q76,how are transverse ranges formed,D76,Transverse Ranges,D76-3,transverse range begin southern end california coast range lie santa barbara san diego county,0
+Q76,how are transverse ranges formed,D76,Transverse Ranges,D76-4,derive name transverse range due east-west orientation making transverse general north-south orientation california 's coastal mountain,0
+Q77,how are the # of electrons in each shell determined,D77,Electron shell,D77-0,periodic table electron shell,0
+Q77,how are the # of electrons in each shell determined,D77,Electron shell,D77-1,electron may thought orbit followed electron around atom 's nucleus,0
+Q77,how are the # of electrons in each shell determined,D77,Electron shell,D77-2,closest nucleus called `` 1 `` also called `` k `` followed `` 2 `` `` l `` `` 3 `` `` `` farther farther nucleus,0
+Q77,how are the # of electrons in each shell determined,D77,Electron shell,D77-3,letter k l ... used x-ray notation alphabetical,0
+Q77,how are the # of electrons in each shell determined,D77,Electron shell,D77-4,contain fixed number electron 1st hold two electron 2nd hold eight electron 3rd hold 18 4th hold 32,1
+Q77,how are the # of electrons in each shell determined,D77,Electron shell,D77-5,since electron electrically attracted nucleus atom 's electron generally occupy outer shell inner shell already completely filled electron,0
+Q77,how are the # of electrons in each shell determined,D77,Electron shell,D77-6,however strict requirement atom may two even three incomplete outer shell,0
+Q77,how are the # of electrons in each shell determined,D77,Electron shell,D77-7,see madelung rule detail,0
+Q77,how are the # of electrons in each shell determined,D77,Electron shell,D77-8,explanation electron exist shell see electron configuration,0
+Q77,how are the # of electrons in each shell determined,D77,Electron shell,D77-9,electron outermost occupied shell determine chemical property atom called valence,0
+Q77,how are the # of electrons in each shell determined,D77,Electron shell,D77-10,consists one subshells subshell consists one atomic orbitals,0
+Q78,how old was anna nicole smith when she meet her old husband,D78,Anna Nicole Smith,D78-0,vickie lynn marshall nee hogan november 28 1967 - february 8 2007 known moniker anna nicole smith american model actress television personality,0
+Q78,how old was anna nicole smith when she meet her old husband,D78,Anna Nicole Smith,D78-1,smith first gained popularity playboy becoming 1993 playmate year,0
+Q78,how old was anna nicole smith when she meet her old husband,D78,Anna Nicole Smith,D78-2,modeled clothing company including guess jean lane bryant,0
+Q78,how old was anna nicole smith when she meet her old husband,D78,Anna Nicole Smith,D78-3,smith dropped high school married 1985,0
+Q78,how old was anna nicole smith when she meet her old husband,D78,Anna Nicole Smith,D78-4,highly publicized second marriage oil business mogul j. howard marshall 62 year senior resulted speculation married octogenarian money denied,0
+Q78,how old was anna nicole smith when she meet her old husband,D78,Anna Nicole Smith,D78-5,following marshall 's death smith began lengthy legal battle share estate,0
+Q78,how old was anna nicole smith when she meet her old husband,D78,Anna Nicole Smith,D78-6,case marshall v. marshall reached you.s supreme court question federal jurisdiction question bankruptcy court authority called stern v. marshall,0
+Q78,how old was anna nicole smith when she meet her old husband,D78,Anna Nicole Smith,D78-7,smith died february 8 2007 hollywood florida hotel room result overdose prescription drug,0
+Q78,how old was anna nicole smith when she meet her old husband,D78,Anna Nicole Smith,D78-8,within final six month life smith focus renewed press coverage surrounding death son daniel paternity custody battle newborn daughter dannielynn,0
+Q79,how much is a ream of paper,D79,Units of paper quantity,D79-0,various measure paper quantity use,0
+Q79,how much is a ream of paper,D79,Units of paper quantity,D79-1,although s.i unit quire bale iso din standard ream,0
+Q79,how much is a ream of paper,D79,Units of paper quantity,D79-2,expression used include you.s customary unit,0
+Q80,how much is a yen coin,D80,5 yen coin,D80-0,one denomination japanese yen,0
+Q80,how much is a yen coin,D80,5 yen coin,D80-1,current design first minted 1959 using japanese character known `` new script `` also minted 1949-1958 using `` old-script `` japanese character,0
+Q80,how much is a yen coin,D80,5 yen coin,D80-2,five-yen coin date 1870 due much higher value yen minted gold,0
+Q80,how much is a yen coin,D80,5 yen coin,D80-3,front coin depicts rice plant growing water `` five yen `` written kanji back stamped `` japan `` year issue also kanji separated sprout tree,0
+Q80,how much is a yen coin,D80,5 yen coin,D80-4,three graphic element coin represent agriculture fishery key element japanese first-sector economy,0
+Q80,how much is a yen coin,D80,5 yen coin,D80-5,around hole gear represents industry,0
+Q80,how much is a yen coin,D80,5 yen coin,D80-6,japanese coin circulation lack arabic numeral either face,0
+Q81,how can i open a usda slaughterhouse,D81,Slaughterhouse,D81-0,worker cattle slaughterhouse,0
+Q81,how can i open a usda slaughterhouse,D81,Slaughterhouse,D81-1,slaughterhouse abattoir meatworks facility animal killed consumption food product,0
+Q81,how can i open a usda slaughterhouse,D81,Slaughterhouse,D81-2,slaughterhouse process meat intended human consumption sometimes referred knacker 's yard knackeries,0
+Q81,how can i open a usda slaughterhouse,D81,Slaughterhouse,D81-3,united state around nine billion animal slaughtered every year,0
+Q81,how can i open a usda slaughterhouse,D81,Slaughterhouse,D81-4,includes 150.4 million cattle bison sheep hog goat 8.9 billion chicken turkey duck 2009 beef consumed you.s alone,0
+Q81,how can i open a usda slaughterhouse,D81,Slaughterhouse,D81-5,canada 650 million animal killed annually,0
+Q81,how can i open a usda slaughterhouse,D81,Slaughterhouse,D81-6,european union annual figure 300 million cattle sheep pig four billion unverified number chicken,0
+Q81,how can i open a usda slaughterhouse,D81,Slaughterhouse,D81-7,slaughtering animal large scale pose significant logistical problem public health requirement,0
+Q81,how can i open a usda slaughterhouse,D81,Slaughterhouse,D81-8,public aversion meat packing many culture influence location slaughterhouse,0
+Q81,how can i open a usda slaughterhouse,D81,Slaughterhouse,D81-9,addition religion stipulate certain condition slaughter animal,0
+Q81,how can i open a usda slaughterhouse,D81,Slaughterhouse,D81-10,criticism method transport preparation herding killing within slaughterhouse particular speed slaughter sometimes conducted,0
+Q81,how can i open a usda slaughterhouse,D81,Slaughterhouse,D81-11,investigation animal welfare animal right group indicated case animal skinned gutted alive conscious,0
+Q81,how can i open a usda slaughterhouse,D81,Slaughterhouse,D81-12,case animal driven hundred mile slaughterhouse condition often result injury death en route,0
+Q81,how can i open a usda slaughterhouse,D81,Slaughterhouse,D81-13,slaughtering animal opposed animal right group ethical ground,0
+Q82,how tall are the members of tlc,D82,TLC (group),D82-0,tlc american girl group whose repertoire spanned r b hip hop soul funk new jack swing,0
+Q82,how tall are the members of tlc,D82,TLC (group),D82-1,originally consisting singer tionne `` t-boz `` watkins rapper lisa `` left eye `` lope singer rozonda `` chilli `` thomas group found unprecedented success 1990s also enduring series spat law group 's record label,0
+Q82,how tall are the members of tlc,D82,TLC (group),D82-2,initially tlc achieved commercial success following release debut album ooooooohhh ...,0
+Q82,how tall are the members of tlc,D82,TLC (group),D82-3,tlc tip sold 6 million copy worldwide,0
+Q82,how tall are the members of tlc,D82,TLC (group),D82-4,however second album crazysexycool catapulted group superstar status,0
+Q82,how tall are the members of tlc,D82,TLC (group),D82-5,crazysexycool went certified diamond riaa -- first female group eventually sold 23 million copy worldwide,0
+Q82,how tall are the members of tlc,D82,TLC (group),D82-6,five year later group released third album fanmail became group 's first album debut number one sold 11 million copy worldwide,0
+Q82,how tall are the members of tlc,D82,TLC (group),D82-7,subsequent tour following fanmails release became highest grossing tour time female band,0
+Q82,how tall are the members of tlc,D82,TLC (group),D82-8,2002 lisa `` left eye `` lope died car accident honduras,0
+Q82,how tall are the members of tlc,D82,TLC (group),D82-9,seven month later t-boz chilli released group 's fourth album 3d sold 2 million copy worldwide featured unreleased vocal left eye,0
+Q82,how tall are the members of tlc,D82,TLC (group),D82-10,billboard magazine ranked tlc one greatest musical trio,0
+Q82,how tall are the members of tlc,D82,TLC (group),D82-11,1992 2003 band accumulated ten top ten single four number one single four multi-platinum album four grammy award,0
+Q82,how tall are the members of tlc,D82,TLC (group),D82-12,end 1999 tlc ranked seventh successful act 1990s billboard,0
+Q82,how tall are the members of tlc,D82,TLC (group),D82-13,2008 group inducted time hot 100 artist hall fame magazine 56th place,0
+Q82,how tall are the members of tlc,D82,TLC (group),D82-14,year also listed 25 r b/hip-hop artist preceding 25 year,0
+Q82,how tall are the members of tlc,D82,TLC (group),D82-15,tlc sold 65 million record worldwide ranked second best selling female group time best selling female r b group time,0
+Q82,how tall are the members of tlc,D82,TLC (group),D82-16,2012 tlc ranked 12th vh1 's 100 greatest woman music ranked number one girl group list,0
+Q83,how long is the tarzan movie,D83,Tarzan (1999 film),D83-0,tarzan 1999 american animated adventure film produced walt disney feature animation distributed walt disney picture,0
+Q83,how long is the tarzan movie,D83,Tarzan (1999 film),D83-1,37th film walt disney animated classic based story tarzan ape edgar rice burroughs major motion picture version story tarzan property animated,0
+Q83,how long is the tarzan movie,D83,Tarzan (1999 film),D83-2,directed chris buck kevin lima screenplay tab murphy bob tzudiker noni white tarzan feature voice tony goldwyn minnie driver glenn close rosie o'donnell brian blessed lance henriksen wayne knight nigel hawthorne,0
+Q83,how long is the tarzan movie,D83,Tarzan (1999 film),D83-3,"last bona fide hit disney slump early 2000s grossing 171,091,819 domestically 448,191,819 worldwide outgrossing predecessor hercules 1997 mulan 1998",0
+Q83,how long is the tarzan movie,D83,Tarzan (1999 film),D83-4,time release production budget 130 million made expensive animated film ever made topped disney 's 140 million treasure planet 2002,0
+Q83,how long is the tarzan movie,D83,Tarzan (1999 film),D83-5,also first disney animated feature open 1 since pocahontas,0
+Q83,how long is the tarzan movie,D83,Tarzan (1999 film),D83-6,last major box office success disney renaissance,0
+Q84,how an oil rig works,D84,Oil platform,D84-0,oil platform p-51 brazilian coast semi-submersible platform,0
+Q84,how an oil rig works,D84,Oil platform,D84-1,oil platform mittelplate north sea,0
+Q84,how an oil rig works,D84,Oil platform,D84-2,oil platform offshore platform colloquially oil rig large structure facility drill well extract process oil natural gas temporarily store product brought shore refining marketing,0
+Q84,how an oil rig works,D84,Oil platform,D84-3,many case platform contains facility house workforce well,0
+Q84,how an oil rig works,D84,Oil platform,D84-4,depending circumstance platform may fixed ocean floor may consist artificial island may float,0
+Q84,how an oil rig works,D84,Oil platform,D84-5,remote subsea well may also connected platform flow line umbilical connection,0
+Q84,how an oil rig works,D84,Oil platform,D84-6,subsea solution may consist one subsea well one manifold centre multiple well,0
+Q85,how much is an adult film actor paid,D85,Pornographic film actor,D85-0,pornographic actor actress porn star person performs sex act film normally characterised pornographic film,0
+Q85,how much is an adult film actor paid,D85,Pornographic film actor,D85-1,pornographic film tend made number distinct pornographic sub-genres attempt present sexual fantasy actor selected particular role primarily selected ability create fit fantasy,0
+Q85,how much is an adult film actor paid,D85,Pornographic film actor,D85-2,depending genre film on-screen appearance physical feature main actor ability create sexual mood film critical importance,0
+Q85,how much is an adult film actor paid,D85,Pornographic film actor,D85-3,actor specialise certain genre lesbian sex bondage strap-on sex anal sex double penetration semen swallowing teenage woman interracial milfs,0
+Q85,how much is an adult film actor paid,D85,Pornographic film actor,D85-4,irrespective genre actor required appear nude pornographic film,0
+Q85,how much is an adult film actor paid,D85,Pornographic film actor,D85-5,pornographic film directed heterosexual male viewer primary focus woman mostly selected willingness ability perform required sex act on-screen appearance physical appeal,0
+Q85,how much is an adult film actor paid,D85,Pornographic film actor,D85-6,male performer heterosexual pornography generally selected le look sexual prowess namely ability three thing achieve erection busy film set maintain erection performing camera ejaculate cue,0
+Q85,how much is an adult film actor paid,D85,Pornographic film actor,D85-7,pornography industry united state first develop star system especially commercial reason,0
+Q85,how much is an adult film actor paid,D85,Pornographic film actor,D85-8,country star system common actor amateur,0
+Q85,how much is an adult film actor paid,D85,Pornographic film actor,D85-9,performer continue use pseudonym strive maintain off-screen anonymity,0
+Q85,how much is an adult film actor paid,D85,Pornographic film actor,D85-10,exceptional performance pornographic actor actress recognised avn award xrco award xbiz award,0
+Q85,how much is an adult film actor paid,D85,Pornographic film actor,D85-11,avn award movie award sponsored presented american adult video industry trade magazine avn adult video news,0
+Q85,how much is an adult film actor paid,D85,Pornographic film actor,D85-12,called `` oscar porn ``,0
+Q85,how much is an adult film actor paid,D85,Pornographic film actor,D85-13,avn award divided nearly 100 category analogous industry award offered film video genre others specific pornographic erotic film video,0
+Q85,how much is an adult film actor paid,D85,Pornographic film actor,D85-14,xrco award given x-rated critic organization annually,0
+Q85,how much is an adult film actor paid,D85,Pornographic film actor,D85-15,venus award presented year berlin part venus berlin trade fair,0
+Q86,how close or far do you want to be to the standard deviation,D86,Standard deviation,D86-0,plot normal distribution bell-shaped curve band width 1 standard deviation - see also 68-95-99.7 rule,0
+Q86,how close or far do you want to be to the standard deviation,D86,Standard deviation,D86-1,cumulative probability normal distribution expected value 0 standard deviation 1,0
+Q86,how close or far do you want to be to the standard deviation,D86,Standard deviation,D86-2,statistic probability theory standard deviation represented symbol sigma s show much variation dispersion exists average mean expected value,0
+Q86,how close or far do you want to be to the standard deviation,D86,Standard deviation,D86-3,low standard deviation indicates data point tend close mean high standard deviation indicates data point spread large range value,0
+Q86,how close or far do you want to be to the standard deviation,D86,Standard deviation,D86-4,standard deviation random variable statistical population data set probability distribution square root variance,0
+Q86,how close or far do you want to be to the standard deviation,D86,Standard deviation,D86-5,algebraically simpler though practically le robust average absolute deviation,0
+Q86,how close or far do you want to be to the standard deviation,D86,Standard deviation,D86-6,useful property standard deviation unlike variance expressed unit data,0
+Q86,how close or far do you want to be to the standard deviation,D86,Standard deviation,D86-7,note however measurement percentage unit standard deviation percentage point unit,0
+Q86,how close or far do you want to be to the standard deviation,D86,Standard deviation,D86-8,addition expressing variability population standard deviation commonly used measure confidence statistical conclusion,0
+Q86,how close or far do you want to be to the standard deviation,D86,Standard deviation,D86-9,example margin error polling data determined calculating expected standard deviation result poll conducted multiple time,0
+Q86,how close or far do you want to be to the standard deviation,D86,Standard deviation,D86-10,reported margin error typically twice standard deviation - radius 95 percent confidence interval,0
+Q86,how close or far do you want to be to the standard deviation,D86,Standard deviation,D86-11,science researcher commonly report standard deviation experimental data effect fall far outside range standard deviation considered statistically significant - normal random error variation measurement way distinguished causal variation,0
+Q86,how close or far do you want to be to the standard deviation,D86,Standard deviation,D86-12,standard deviation also important finance standard deviation rate return investment measure volatility investment,0
+Q86,how close or far do you want to be to the standard deviation,D86,Standard deviation,D86-13,sample data population available standard deviation population estimated modified quantity called `` sample standard deviation ``,0
+Q86,how close or far do you want to be to the standard deviation,D86,Standard deviation,D86-14,sample entire population unmodified standard deviation called `` population standard deviation ``,0
+Q87,how are sheep slaughtered,D87,Animal slaughter,D87-0,slaughter killing animal usually domestic livestock food,0
+Q87,how are sheep slaughtered,D87,Animal slaughter,D87-1,animal commonly slaughtered food cattle water buffalo beef veal sheep goat lamb mutton pig pork horse horse meat fowl largely chicken turkey duck increasingly fish aquaculture industry fish farming,0
+Q88,how deadly are brain tumors,D88,Brain tumor,D88-0,brain tumor tumour intra cranial solid neoplasm tumor defined abnormal growth cell within brain central spinal canal,0
+Q88,how deadly are brain tumors,D88,Brain tumor,D88-1,brain tumor include tumor inside cranium central spinal canal,0
+Q88,how deadly are brain tumors,D88,Brain tumor,D88-2,created abnormal uncontrolled cell division usually brain also lymphatic tissue blood vessel cranial nerve brain envelope meninges skull pituitary gland pineal gland,0
+Q88,how deadly are brain tumors,D88,Brain tumor,D88-3,within brain involved cell may neuron glial cell include astrocyte oligodendrocyte ependymal cell,0
+Q88,how deadly are brain tumors,D88,Brain tumor,D88-4,brain tumor may also spread cancer primarily located organ metastatic tumor,0
+Q88,how deadly are brain tumors,D88,Brain tumor,D88-5,brain tumor inherently serious life-threatening invasive infiltrative character limited space intracranial cavity,0
+Q88,how deadly are brain tumors,D88,Brain tumor,D88-6,however brain tumor even malignant one invariably fatal especially lipoma inherently benign,0
+Q88,how deadly are brain tumors,D88,Brain tumor,D88-7,brain tumor intracranial neoplasm cancerous malignant non-cancerous benign however definition malignant benign neoplasm differs commonly used type cancerous non-cancerous neoplasm body,0
+Q88,how deadly are brain tumors,D88,Brain tumor,D88-8,threat level depends combination factor like type tumor location size state development,0
+Q88,how deadly are brain tumors,D88,Brain tumor,D88-9,brain well protected skull early detection brain tumor occurs diagnostic tool directed intracranial cavity,0
+Q88,how deadly are brain tumors,D88,Brain tumor,D88-10,usually detection occurs advanced stage presence tumor caused unexplained symptom,0
+Q88,how deadly are brain tumors,D88,Brain tumor,D88-11,primary true brain tumor commonly located posterior cranial fossa child anterior two-thirds cerebral hemisphere adult although affect part brain,0
+Q89,how many presidents of the us,D89,List of Presidents of the United States,D89-0,white house president 's official residence center administration,0
+Q89,how many presidents of the us,D89,List of Presidents of the United States,D89-1,united state constitution president united state head state head government united state,0
+Q89,how many presidents of the us,D89,List of Presidents of the United States,D89-2,chief executive branch head federal government whole presidency highest political office united state influence recognition,0
+Q89,how many presidents of the us,D89,List of Presidents of the United States,D89-3,president also commander-in-chief united state armed force,0
+Q89,how many presidents of the us,D89,List of Presidents of the United States,D89-4,president indirectly elected four-year term electoral college house representative electoral college fail award absolute majority vote person,0
+Q89,how many presidents of the us,D89,List of Presidents of the United States,D89-5,since ratification twenty-second amendment united state constitution 1951 person may elected president twice one served two year term someone else elected may elected,0
+Q89,how many presidents of the us,D89,List of Presidents of the United States,D89-6,upon death resignation removal office incumbent president vice president assumes office,0
+Q89,how many presidents of the us,D89,List of Presidents of the United States,D89-7,president must least 35 year age `` natural born `` citizen united state,0
+Q89,how many presidents of the us,D89,List of Presidents of the United States,D89-8,list includes person sworn office president following ratification united state constitution took effect march 4 1789,0
+Q89,how many presidents of the us,D89,List of Presidents of the United States,D89-9,american leader ratification see president continental congress,0
+Q89,how many presidents of the us,D89,List of Presidents of the United States,D89-10,list include acting president twenty-fifth amendment united state constitution,0
+Q89,how many presidents of the us,D89,List of Presidents of the United States,D89-11,43 people sworn office 44 presidency grover cleveland served two non-consecutive term counted chronologically 22nd 24th president,1
+Q89,how many presidents of the us,D89,List of Presidents of the United States,D89-12,individual elected president four died office natural cause william henry harrison zachary taylor warren g. harding franklin d. roosevelt four assassinated abraham lincoln james a. garfield william mckinley john f. kennedy one resigned richard nixon,0
+Q89,how many presidents of the us,D89,List of Presidents of the United States,D89-13,george washington first president inaugurated 1789 unanimous vote electoral college,0
+Q89,how many presidents of the us,D89,List of Presidents of the United States,D89-14,william henry harrison spent shortest time office 32 day 1841 franklin d. roosevelt spent longest twelve year died shortly fourth term 1945,0
+Q89,how many presidents of the us,D89,List of Presidents of the United States,D89-15,president serve two term constitutional amendment affecting president harry truman passed limit number time individual elected president,0
+Q89,how many presidents of the us,D89,List of Presidents of the United States,D89-16,andrew jackson seventh president first elected men class 1828 law barring non-land-owners voting repealed,0
+Q89,how many presidents of the us,D89,List of Presidents of the United States,D89-17,warren harding first elected woman gained voting right 1920,0
+Q89,how many presidents of the us,D89,List of Presidents of the United States,D89-18,history record four president - john q adam rutherford b. hayes benjamin harrison george w. bush - lost popular vote assumed office,0
+Q89,how many presidents of the us,D89,List of Presidents of the United States,D89-19,john f. kennedy president roman catholic faith current president barack obama first president african descent,0
+Q90,how a silencer works,D90,Suppressor,D90-0,several firearm detachable suppressor top bottom uzi ar-15 heckler koch usp tactical beretta 92fs sig mosquito,0
+Q90,how a silencer works,D90,Suppressor,D90-1,bolt action rimfire rifle suppressor,0
+Q90,how a silencer works,D90,Suppressor,D90-2,awm-f sniper rifle attached suppressor,0
+Q90,how a silencer works,D90,Suppressor,D90-3,suppressor sound suppressor sound moderator device attached part barrel firearm reduces amount noise usually amount muzzle flash generated firing weapon,0
+Q90,how a silencer works,D90,Suppressor,D90-4,suppressor used firearm compressed air gun,0
+Q90,how a silencer works,D90,Suppressor,D90-5,though sometimes referred silencer term misnomer popularized cinematic fiction sound projectile especially one moving faster speed sound air eliminated,0
+Q90,how a silencer works,D90,Suppressor,D90-6,using suppressor long distance shooting i.e greater 300 meter lessen retard report moment impact create impression silence near target,0
+Q90,how a silencer works,D90,Suppressor,D90-7,noise heard near muzzle projectile leaf barrel though subdued silent,0
+Q90,how a silencer works,D90,Suppressor,D90-8,suppressor usually metal cylinder internal mechanism reduce sound firing slowing escaping propellant gas sometimes reducing velocity bullet,0
+Q90,how a silencer works,D90,Suppressor,D90-9,early suppressor created around beginning 20th century several inventor,0
+Q90,how a silencer works,D90,Suppressor,D90-10,american inventor hiram percy maxim confused hiram stevens maxim hiram percy 's father inventor maxim machine gun credited inventing selling first commercially successful model circa 1902 patented 30 march 1909,0
+Q90,how a silencer works,D90,Suppressor,D90-11,maxim gave device trademarked name maxim silencer,0
+Q90,how a silencer works,D90,Suppressor,D90-12,muffler internal combustion engine developed parallel firearm suppressor maxim early 20th century using many technique provide quieter-running engine many european country automobile muffler still called silencer,0
+Q90,how a silencer works,D90,Suppressor,D90-13,word silencer reference gun suppressor remains widespread use although since fallen favor especially among firearm industry replaced literally accurate term sound suppressor suppressor `` sound suppressor `` `` silence `` weapon rather eliminates muzzle flash reduces sonic pressure firearm discharging,0
+Q90,how a silencer works,D90,Suppressor,D90-14,common usage you.s legislative language favor historically earlier term silencer,0
+Q90,how a silencer works,D90,Suppressor,D90-15,you.s law term `` firearm muffler `` `` firearm silencer `` synonymous,0
+Q90,how a silencer works,D90,Suppressor,D90-16,suppressor regularly used agent united state office strategic service favored newly designed high standard hdm .22 long rifle pistol world war ii,0
+Q90,how a silencer works,D90,Suppressor,D90-17,os director william joseph `` wild bill `` donovan demonstrated pistol president franklin d. roosevelt white house,0
+Q90,how a silencer works,D90,Suppressor,D90-18,according os research chief stanley lovell donovan old trusted friend president waved oval office roosevelt dictating letter,0
+Q90,how a silencer works,D90,Suppressor,D90-19,roosevelt finished message donovan turned back fired ten shot sandbag brought announced done handed smoking gun astonished president,0
+Q90,how a silencer works,D90,Suppressor,D90-20,british soe special operation executive welrod assassination pistol integral suppressor also used american os clandestine operation nazi occupied europe second world war,0
+Q91,how tall is an indoor girls volleyball net,D91,Volleyball,D91-0,volleyball team sport two team six player separated net,0
+Q91,how tall is an indoor girls volleyball net,D91,Volleyball,D91-1,team try score point grounding ball team 's court organized rule,0
+Q91,how tall is an indoor girls volleyball net,D91,Volleyball,D91-2,part official program summer olympic game since 1964,0
+Q91,how tall is an indoor girls volleyball net,D91,Volleyball,D91-3,scene volleyball play erwadi village,0
+Q91,how tall is an indoor girls volleyball net,D91,Volleyball,D91-4,complete rule extensive,0
+Q91,how tall is an indoor girls volleyball net,D91,Volleyball,D91-5,simply play proceeds follows player one team begin 'rally serving ball tossing releasing hitting hand arm behind back boundary line court net receiving team 's court,0
+Q91,how tall is an indoor girls volleyball net,D91,Volleyball,D91-6,receiving team must let ball grounded within court,0
+Q91,how tall is an indoor girls volleyball net,D91,Volleyball,D91-7,team may touch ball 3 time individual player may touch ball twice consecutively,0
+Q91,how tall is an indoor girls volleyball net,D91,Volleyball,D91-8,typically first two touch used set attack attempt direct ball back net way serving team unable prevent grounded court,0
+Q91,how tall is an indoor girls volleyball net,D91,Volleyball,D91-9,rally continues team allowed many three consecutive touch either 1 team make kill grounding ball opponent 's court winning rally 2 team commits fault loses rally,0
+Q91,how tall is an indoor girls volleyball net,D91,Volleyball,D91-10,team win rally awarded point serf ball start next rally,0
+Q91,how tall is an indoor girls volleyball net,D91,Volleyball,D91-11,common fault include,0
+Q91,how tall is an indoor girls volleyball net,D91,Volleyball,D91-12,causing ball touch ground floor outside opponent court without first passing net,0
+Q91,how tall is an indoor girls volleyball net,D91,Volleyball,D91-13,catching throwing ball,0
+Q91,how tall is an indoor girls volleyball net,D91,Volleyball,D91-14,double hit two consecutive contact ball made player,0
+Q91,how tall is an indoor girls volleyball net,D91,Volleyball,D91-15,four consecutive contact ball made team,0
+Q91,how tall is an indoor girls volleyball net,D91,Volleyball,D91-16,net foul touching net play,0
+Q91,how tall is an indoor girls volleyball net,D91,Volleyball,D91-17,foot fault foot cross boundary line serving,0
+Q91,how tall is an indoor girls volleyball net,D91,Volleyball,D91-18,ball usually played hand arm player legally strike push short contact ball part body,0
+Q91,how tall is an indoor girls volleyball net,D91,Volleyball,D91-19,number consistent technique evolved volleyball including spiking blocking play made top net vertical jump athletic skill emphasized sport well passing setting specialized player position offensive defensive structure,0
+Q92,How much is US National Debt limit?,D92,National debt of the United States,D92-0,you.s debt 1940 2011,0
+Q92,How much is US National Debt limit?,D92,National debt of the United States,D92-1,red line indicate `` debt held public `` black line indicate total national debt gross public debt,0
+Q92,How much is US National Debt limit?,D92,National debt of the United States,D92-2,difference `` intragovernmental debt `` includes obligation government program social security,0
+Q92,How much is US National Debt limit?,D92,National debt of the United States,D92-3,stated formula national debt debt held public intragovernmental debt,0
+Q92,How much is US National Debt limit?,D92,National debt of the United States,D92-4,second panel show two debt figure percentage you.s gdp dollar value you.s economic production year,0
+Q92,How much is US National Debt limit?,D92,National debt of the United States,D92-5,top panel deflated every year 2010 dollar,0
+Q92,How much is US National Debt limit?,D92,National debt of the United States,D92-6,united state public debt money borrowed federal government united state issuing security treasury federal government agency,0
+Q92,How much is US National Debt limit?,D92,National debt of the United States,D92-7,u public debt consists two component,0
+Q92,How much is US National Debt limit?,D92,National debt of the United States,D92-8,debt held public includes treasury security held investor outside federal government including held individual corporation federal reserve system foreign state local government,0
+Q92,How much is US National Debt limit?,D92,National debt of the United States,D92-9,debt held government account intragovernmental debt includes non-marketable treasury security held account administered federal government owed program beneficiary social security trust fund,0
+Q92,How much is US National Debt limit?,D92,National debt of the United States,D92-10,debt held government account represents cumulative surplus including interest earnings account invested treasury security,0
+Q92,How much is US National Debt limit?,D92,National debt of the United States,D92-11,public debt increase decrease result annual unified budget deficit surplus,0
+Q92,How much is US National Debt limit?,D92,National debt of the United States,D92-12,federal government budget deficit surplus difference government receipt spending ignoring intra-governmental transfer,0
+Q92,How much is US National Debt limit?,D92,National debt of the United States,D92-13,however spending excluded deficit supplemental appropriation also add debt,0
+Q92,How much is US National Debt limit?,D92,National debt of the United States,D92-14,historically u public debt share gdp increased war recession subsequently declined,0
+Q92,How much is US National Debt limit?,D92,National debt of the United States,D92-15,example debt held public share gdp peaked world war ii 113 gdp 1945 fell following 30 year,0
+Q92,How much is US National Debt limit?,D92,National debt of the United States,D92-16,recent decade however large budget deficit resulting increase debt led concern long-term sustainability federal government 's fiscal policy,0
+Q92,How much is US National Debt limit?,D92,National debt of the United States,D92-17,2 april 2013 debt held public approximately 11.959 trillion 75 gdp,0
+Q92,How much is US National Debt limit?,D92,National debt of the United States,D92-18,intragovernmental holding stood 4.846 trillion giving combined total public debt 16.805 trillion,0
