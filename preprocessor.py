@@ -5,6 +5,8 @@ from unidecode import unidecode
 import contractions
 import csv
 import string
+from nltk.stem import WordNetLemmatizer
+from nltk.tokenize import word_tokenize
 
 def pre_process(corpus):
     # convert input corpus to lower case.
@@ -25,7 +27,14 @@ def pre_process(corpus):
     corpus = " ".join([i for i in word_tokenize(expanded_text) if i not in stopset])
     # remove non-ascii characters
     corpus = unidecode(corpus)
-    return corpus
+
+    lemmatizer = WordNetLemmatizer()
+
+    corpus = word_tokenize(corpus)
+
+    lemmatized_output = ' '.join([lemmatizer.lemmatize(w) for w in corpus])
+
+    return lemmatized_output
 
 inputFile = open('data/WikiQA.csv', encoding="utf8")
 csvreader = csv.reader(inputFile)
