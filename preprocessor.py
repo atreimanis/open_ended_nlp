@@ -2,18 +2,27 @@ import nltk
 from nltk import word_tokenize
 from nltk.corpus import stopwords
 from unidecode import unidecode
+import contractions
 import csv
 import string
 
 def pre_process(corpus):
     # convert input corpus to lower case.
     corpus = corpus.lower()
+
+    #expand contractions
+    expanded_input = []
+
+    for word in corpus.split():
+        expanded_input.append(contractions.fix(word))
+
+    expanded_text = ' '.join(expanded_input)
     # collecting a list of stop words from nltk and punctuation form
     # string class and create single array.
     stopset = stopwords.words('english') + list(string.punctuation)
     # remove stop words and punctuations from string.
     # word_tokenize is used to tokenize the input corpus in word tokens.
-    corpus = " ".join([i for i in word_tokenize(corpus) if i not in stopset])
+    corpus = " ".join([i for i in word_tokenize(expanded_text) if i not in stopset])
     # remove non-ascii characters
     corpus = unidecode(corpus)
     return corpus
