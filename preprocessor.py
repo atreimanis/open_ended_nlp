@@ -36,6 +36,32 @@ def pre_process(corpus):
 
     return lemmatized_output
 
+#clean answer column
+def remove_punctuation(path):
+    inputFile = open(path,encoding="utf8")
+    csvreader = csv.reader(inputFile)
+    header = []
+    header = next(csvreader)
+    outputFile = open('data/Wiki-proc-p.csv', 'w', encoding="utf8", newline='')
+    # create the csv writer
+    writer = csv.writer(outputFile)
+    writer.writerow(header)
+
+    for inputRow in csvreader:
+        outputRow = inputRow
+
+        outputRow[4] = inputRow[4].replace('`', '')
+        outputRow[4] = inputRow[4].replace('-', '')
+        outputRow[4] = inputRow[4].replace('"', '')
+        outputRow[4] = inputRow[4].replace('\'', '')
+        outputRow[4] = inputRow[4].replace('...', '')
+
+        writer.writerow(outputRow)
+
+    # close the file
+    outputFile.close()
+
+
 def writefile_1():
     inputFile = open('data/WikiQA.csv', encoding="utf8")
     csvreader = csv.reader(inputFile)
@@ -63,7 +89,7 @@ def writefile_2(path):
     csvreader = csv.reader(inputFile)
     header = []
     header = next(csvreader)
-    outputFile = open('data/Wiki-processed.csv', 'w', encoding="utf8", newline='')
+    outputFile = open('data/Wiki-proc.csv', 'w', encoding="utf8", newline='')
     # create the csv writer
     writer = csv.writer(outputFile)
     writer.writerow(header)
@@ -81,5 +107,7 @@ def writefile_2(path):
     # close the file
     outputFile.close()
 
-path = 'data/Wiki.csv'
-writefile_2(path)
+path = 'data/Wiki-processed.csv'
+#writefile_2(path)
+remove_punctuation(path)
+
