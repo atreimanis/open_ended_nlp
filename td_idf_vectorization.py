@@ -49,27 +49,27 @@ def clean_cos_vector(array,columns):
     clean_values.pop(0)
     return clean_values
 
+def write_file():
+    #writing the file
+    group_id = 1
+    row_id = 0
 
-#writing the file
-group_id = 1
-row_id = 0
+    #total group num = 940
+    while group_id <= 940:
+        query = fetch_query(data,group_id)
+        answer_group = fetch_group(data, group_id)
+        comparison = compare(query, answer_group)
 
-#total group num = 940
-while group_id <= 940:
-    query = fetch_query(data,group_id)
-    answer_group = fetch_group(data, group_id)
-    comparison = compare(query, answer_group)
+        sim_vector = clean_cos_vector(comparison,len(answer_group)+1)
 
-    sim_vector = clean_cos_vector(comparison,len(answer_group)+1)
+        for similarity in sim_vector:
+            data['Similarity_score'][row_id] = float(similarity)
+            row_id+=1
+        
+        group_id+=1
 
-    for similarity in sim_vector:
-        data['Similarity_score'][row_id] = float(similarity)
-        row_id+=1
-    
-    group_id+=1
+    print(data.head(10))
 
-print(data.head(10))
-
-data = data.drop(data.columns[[0]], axis=1) #drop the randomly added id column
-data.to_csv('TD-IDF.csv',sep=',', encoding='utf-8')
+    data = data.drop(data.columns[[0]], axis=1) #drop the randomly added id column
+    data.to_csv('TD-IDF.csv',sep=',', encoding='utf-8')
 
